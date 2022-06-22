@@ -2,7 +2,7 @@
 
 Where thinkers, trailblazers and workers come for grants to make their dreams a reality on the Celo network
 
-## Apply
+## Apply 
 
 
 
