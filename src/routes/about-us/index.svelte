@@ -4,6 +4,7 @@
     import Icon from '@iconify/svelte';
     import { Row, Col } from 'svelte-materialify';
     import image from './fake-portrait.jpeg'
+    import image_wade from './portrait-wade.png'
     let mobile = false;
 
     onMount(async () => {
@@ -82,7 +83,7 @@
             <Col cols={12} sm={6} md={6}>
                 <div class="container">
                     <div class="content">
-                        <img src={image} alt="Welcome" />
+                        <img src={image_wade} alt="Welcome" />
                     </div>
                 </div>
             </Col>
@@ -110,8 +111,9 @@
 
     img {
         padding:5%;
-        object-fit:fill;
+        object-fit:contain;
         width:100%;
+        height:100%;
     }
 
     p {

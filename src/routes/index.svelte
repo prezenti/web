@@ -32,6 +32,7 @@
 		<h1>
 			Prezenti
 		</h1>
+		<p>Where thinkers, trailblazers and workers come for grants to make their dreams a reality on the Celo network</p>
 	</a>
 
 	</section>
@@ -66,6 +67,11 @@
 		text-align: center;
 		justify-content: center;
 		object-fit: contain;
+	}
+
+	p {
+		margin:0 20% 0 20%;
+		color:white;
 	}
 
 	a:hover {

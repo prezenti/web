@@ -1,18 +1,10 @@
-# create-svelte
+# prezenti website
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Where thinkers, trailblazers and workers come for grants to make their dreams a reality on the Celo network
 
-## Creating a project
+## Apply
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm init svelte
-
-# create a new project in my-app
-npm init svelte my-app
-```
 
 ## Developing
 
