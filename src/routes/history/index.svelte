@@ -93,17 +93,27 @@
     <Typewriter cascade interval={2}>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <h1>2020: Celo Genesis and the launch of the Celo Community Fund</h1>
+                <p>Celo Protocol was officially launched on Earth Day, April 22. Part of the protocol is the Celo Community Fund. The Community Fund provides for general upkeep of the Celo platform. CELO holders decide how to allocate these funds through governance proposals. Funds might be used to pay bounties for bugs or vulnerabilities, security audits, or grants for protocol development.</p>
+                <p class="list">The Community Fund receives assets from three sources:</p>
+                <ul>
+                    <li>The Community Fund obtains a desired epoch reward defined as a fraction of the total desired epoch rewards (governable, initially planned to be 25\%25%). This amount is subject to adjustment up or down in the event of under- or over-spending against the epoch rewards target schedule. The Community Fund epoch rewards may be redirected to bolster the <a href="https://docs.celo.org/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund#bolstering-the-reserve">Reserve</a>.</li>
+                    <li>Thee Community Fund is the default destination for slashed assets.</li>
+                    <li>The Community Fund also receives the 'base' portion of <a href="https://docs.celo.org/celo-codebase/protocol/transactions/gas-pricing">transaction fees</a></li>
+                </ul>
             </div>
         </div>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <h1>2021: Celo Community Fund 1</h1>
+                <p>The first <a href="https://celocommunityfund.org/">Celo Community Fund (CCF)</a> was set up in 2021 by Patrick Baron(<a href="https://moola.market/">Moola</a>), Dee and Deepak Nuli(<a href="https://www.kresko.fi/">Kresko</a>) and was the first community approved spend proposal, from the on-chain Community Fund. It was set up for Celo community members to apply for funds in the form of a grant for work aligned to the focus areas and Celo mission. The three original stewards did an amazing job setting up the fund and in the end distributing $XX/CELO to XX grant recipients. </p>
             </div>
         </div>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <h1>2022: CCF2: Prezenti</h1>
+                <p>The CCF1 funds have now been spent and set of three new stewards (Aaron, Maya and Wade) have sought governance approval for the re-opening of the grant fund in mid 2022. Based on community feedback they have chosen to re-name the fund to avoid confusion with the Celo Community Fund and called it Prezenti - Esperanto for gift/to give.</p>
+           
             </div>
         </div>
     </Typewriter>
@@ -114,6 +124,10 @@
 
 
 <style>
+
+    section {
+            margin-bottom: 40px;
+    }
 
 	.history-animation {
 		display: flex;
@@ -165,11 +179,24 @@
     .content-typewriter p {
         color: white;
     }
+    h1 {
+        margin-bottom: 5px;
+    }
+
+    h2 {
+        font-weight: bold;
+        margin-bottom:3px;
+    }
 
     p {
         font-family: 'Proza Libre', sans-serif;
         text-align: center;
         align-items: center;
+        margin-top:3px;
+    }
+
+    .list {
+        text-align:left;
     }
 
     .content {
@@ -191,14 +218,20 @@
 
     a {
         text-decoration: none;
-        font-size: 5rem;
+
         color: var(--secondary-color)
     }
 
     a:hover {
         color:black;
+        background-color:#3bfa98 ;
         opacity: 0.5;
     }
+
+    li {
+        margin-top:13px
+    }
+
 
     .corner {
         padding:5%;
@@ -208,7 +241,10 @@
 
     .corner a {
         color:var(--tertiary-color);
+        font-size: 5rem;
     }
+
+  
 
     .corner img {
         width: 3rem;
@@ -224,9 +260,14 @@
     }
 
     @media (max-width: 400px) {
+
+
+        h1 {
+            font-size: 1.5rem;
+        }
         
         a {
-            font-size: 2.4rem;
+            font-size: 0.7rem;
         }
 
         .content-typewriter {
@@ -234,8 +275,16 @@
         }
 
         .history-typewriter {
-            margin-top: -20%;
+            margin-top: 40%;
         }
+
+        .container {
+            margin-top:10%
+         }
+
+         .corner a {
+            font-size: 2.4rem;
+         }
     }
 
     

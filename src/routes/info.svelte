@@ -194,6 +194,8 @@
     }
 
     @media (max-width: 400px) {
+
+
         
         a {
             font-size: 0.7rem;
