@@ -180,7 +180,8 @@
         color: white;
     }
     h1 {
-        margin-bottom: 5px;
+        margin-top:7%;
+        margin-bottom: 2%;
         font-family: 'Cormorant Garamond', serif;
         font-size: 3rem;
         line-height: 100%;

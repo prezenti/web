@@ -123,17 +123,19 @@
     }
 
     h1 {
-        margin-bottom: 5px;
+        margin-top:7%;
+        margin-bottom: 2%;
         font-family: 'Cormorant Garamond', serif;
         font-size: 3rem;
-
+        line-height: 100%;
     }
 
     h2 {
         font-weight: bold;
         font-size: 1.5rem;
         margin-bottom:3px;
-        font-family: 'Cormorant Garamond', serif
+        font-family: 'Cormorant Garamond', serif;
+        line-height: 100%;
         
     }
 
