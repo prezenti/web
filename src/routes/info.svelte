@@ -124,12 +124,15 @@
 
     h1 {
         margin-bottom: 5px;
+        font-family: 'Cormorant Garamond', serif;
     }
 
     h2 {
         font-weight: bold;
         font-size: 1.5rem;
         margin-bottom:3px;
+        font-family: 'Cormorant Garamond', serif
+        
     }
 
     p {
@@ -158,9 +161,12 @@
         width:100%;
     }
 
+    .corner a {
+            font-size: 5rem;
+         }
+
     a {
         text-decoration: none;
-
         color: var(--secondary-color)
     }
 

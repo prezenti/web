@@ -181,6 +181,7 @@
     }
     h1 {
         margin-bottom: 5px;
+        font-family: 'Cormorant Garamond', serif;
     }
 
     h2 {

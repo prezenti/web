@@ -58,6 +58,7 @@
 		font-size:5rem ;
 		margin:0;
 		padding:0;
+		font-family: 'Cormorant Garamond', serif;
 	}
 
 
