@@ -109,7 +109,7 @@
                 <p>The first <a href="https://celocommunityfund.org/">Celo Community Fund (CCF)</a> was set up in 2021 by Patrick Baron(<a href="https://moola.market/">Moola</a>), Dee and Deepak Nuli(<a href="https://www.kresko.fi/">Kresko</a>) and was the first community approved spend proposal, from the on-chain Community Fund. It was set up for Celo community members to apply for funds in the form of a grant for work aligned to the focus areas and Celo mission. The three original stewards did an amazing job setting up the fund and in the end distributing $XX/CELO to XX grant recipients. </p>
             </div>
         </div>
-        <div class="container-typewriter ">
+        <div class="container-typewriter "> 
             <div  class="content-typewriter">
                 <h1>2022: CCF2: Prezenti</h1>
                 <p>The CCF1 funds have now been spent and set of three new stewards (Aaron, Maya and Wade) have sought governance approval for the re-opening of the grant fund in mid 2022. Based on community feedback they have chosen to re-name the fund to avoid confusion with the Celo Community Fund and called it Prezenti - Esperanto for gift/to give.</p>
