@@ -183,6 +183,7 @@
         margin-bottom: 5px;
         font-family: 'Cormorant Garamond', serif;
         font-size: 3rem;
+        line-height: 100%;
     }
 
     h2 {
