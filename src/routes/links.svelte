@@ -19,6 +19,7 @@
 </div>
 
 <div class="links">
+    <a sveltekit:prefetch href="/info">Info.</a>
 	<a sveltekit:prefetch href="/">Apply.</a>
     <a sveltekit:prefetch href="/">Applications.</a>
     <a sveltekit:prefetch href="/tx">Tx's.</a>
