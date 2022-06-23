@@ -19,8 +19,8 @@
 
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Prezenti</title>
+	<meta name="Prezenti" content="Get a grant to help the Celo ecosytem" />
 </svelte:head>
 
 <OnMount>

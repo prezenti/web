@@ -6,7 +6,7 @@
 
 <svelte:head>
 	<title>Tx tracking</title>
-	<meta name="Tx tracking" content="What are we spending on" />
+	<meta name="Prezenti Tx Tracking" content="What are we spending on" />
 </svelte:head>
 
 <section>

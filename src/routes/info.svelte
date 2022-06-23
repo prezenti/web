@@ -4,8 +4,8 @@
 </script>
 
 <svelte:head>
-	<title>History</title>
-	<meta name="history" content="How we got here" />
+	<title>Info</title>
+	<meta name="Prezenti - Info" content="About Prezenti" />
 </svelte:head>
 
 <section>

@@ -18,7 +18,7 @@
 
 <svelte:head>
 	<title>About Us</title>
-	<meta name="about us" content="Who are we" />
+	<meta name="Prezenti - About Us" content="Who are we" />
 </svelte:head>
 
 <section>

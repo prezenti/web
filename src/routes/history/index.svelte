@@ -36,7 +36,7 @@
 
 <svelte:head>
 	<title>History</title>
-	<meta name="history" content="How we got here" />
+	<meta name="Prezenti - History" content="How we got here" />
 </svelte:head>
 
 <section>
