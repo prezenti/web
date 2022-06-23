@@ -41,7 +41,7 @@
 
 <section>
 <div class="corner">
-    <a sveltekit:prefetch href="/links">
+    <a class="corner-a" sveltekit:prefetch href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
@@ -105,13 +105,13 @@
         </div>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
-                <h1>2021: Celo Community Fund 1</h1>
+                <h1>2021: Celo Community Fund 1(CCF1)</h1>
                 <p>The first <a href="https://celocommunityfund.org/">Celo Community Fund (CCF)</a> was set up in 2021 by Patrick Baron(<a href="https://moola.market/">Moola</a>), Dee and Deepak Nuli(<a href="https://www.kresko.fi/">Kresko</a>) and was the first community approved spend proposal, from the on-chain Community Fund. It was set up for Celo community members to apply for funds in the form of a grant for work aligned to the focus areas and Celo mission. The three original stewards did an amazing job setting up the fund and in the end distributing $XX/CELO to XX grant recipients. </p>
             </div>
         </div>
         <div class="container-typewriter "> 
             <div  class="content-typewriter">
-                <h1>2022: CCF2: Prezenti</h1>
+                <h1>2022: Prezenti</h1>
                 <p>The CCF1 funds have now been spent and set of three new stewards (Aaron, Maya and Wade) have sought governance approval for the re-opening of the grant fund in mid 2022. Based on community feedback they have chosen to re-name the fund to avoid confusion with the Celo Community Fund and called it Prezenti - Esperanto for gift/to give.</p>
            
             </div>
@@ -182,6 +182,7 @@
     h1 {
         margin-bottom: 5px;
         font-family: 'Cormorant Garamond', serif;
+        font-size: 3rem;
     }
 
     h2 {
@@ -223,14 +224,23 @@
         color: var(--secondary-color)
     }
 
-    a:hover {
+
+    p a:hover {
         color:black;
         background-color:#3bfa98 ;
         opacity: 0.5;
     }
 
+ 
+    .corner-a:hover {
+        color:white;
+        opacity: 0.5;
+
+    } 
+
     li {
-        margin-top:13px
+        margin-top:13px;
+        font-family: 'Proza Libre', sans-serif;
     }
 
 

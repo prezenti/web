@@ -10,7 +10,7 @@
 
 <section>
 <div class="corner">
-    <a sveltekit:prefetch href="/links">
+    <a class="corner-a" sveltekit:prefetch href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
@@ -125,6 +125,8 @@
     h1 {
         margin-bottom: 5px;
         font-family: 'Cormorant Garamond', serif;
+        font-size: 3rem;
+
     }
 
     h2 {
@@ -163,14 +165,21 @@
 
     .corner a {
             font-size: 5rem;
+            color:var(--tertiary-color);
          }
+
+    .corner-a:hover {
+        color:white;
+        opacity: 0.5;
+
+    } 
 
     a {
         text-decoration: none;
         color: var(--secondary-color)
     }
 
-    a:hover {
+    p a:hover {
         color:black;
         background-color:#3bfa98 ;
         opacity: 0.5;
@@ -181,10 +190,6 @@
 		width: 1rem;
 		height: 1rem;
 	}
-
-    .corner a {
-        color:var(--tertiary-color);
-    }
 
     .corner img {
         width: 3rem;
