@@ -27,7 +27,7 @@
 	<section>
 
 		<a  sveltekit:prefetch href="/links">
-		<img in:customTransition src="prezenti-logo.svg" alt="Welcome" />
+		<img in:customTransition src="prezenti-logo.svg" alt="Welcome to Prezenti - click to enter" />
 
 		<h1>
 			Prezenti

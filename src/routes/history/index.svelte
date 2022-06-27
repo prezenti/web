@@ -41,17 +41,20 @@
 
 <section>
 <div class="corner">
-    <a class="corner-a" sveltekit:prefetch href="/links">
+    <a class="corner-a" aria-label="Link to go back" sveltekit:prefetch href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
+
+<h1 aria-label="History page" ></h1>
+
 {#if ready}
 {#if !show}
 <div class="history-animation">
 
             <div class="container celo">
                 <div class="content">
-                    <img in:fade="{{delay:100, duration:1000}}" src={celo} alt="Welcome" />
+                    <img in:fade="{{delay:100, duration:1000}}" src={celo} alt="Celo logo" />
                 </div>
             </div>
 
@@ -63,7 +66,7 @@
 
             <div class="container">
                 <div class="content">
-                    <img in:fade="{{delay:2100, duration:1000}}" src={ccf} alt="Welcome" />
+                    <img in:fade="{{delay:2100, duration:1000}}" src={ccf} alt="CCF1 logo" />
                 </div>
             </div>
 
@@ -75,7 +78,7 @@
 
             <div class="container">
                 <div in:fade="{{delay:4100, duration:1000}}" class="content">
-                    <img src="prezenti-logo.svg" alt="Welcome" />
+                    <img src="prezenti-logo.svg" alt="Prezenti logo" />
                 </div>
             </div>
 
@@ -86,7 +89,7 @@
     
     <div class="container">
         <div  class="content">
-            <img src="prezenti-logo.svg" alt="Welcome" />
+            <img src="prezenti-logo.svg" alt="Prezenti logo" />
         </div>
     </div>
 

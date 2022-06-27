@@ -10,7 +10,7 @@
 
 <section>
 <div class="corner">
-    <a class="corner-a" sveltekit:prefetch href="/links">
+    <a class="corner-a" aria-label="Link to go back" sveltekit:prefetch href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
@@ -20,7 +20,7 @@
     
     <div class="container">
         <div  class="content">
-            <img src="prezenti-logo.svg" alt="Welcome" /> 
+            <img src="prezenti-logo.svg" alt="Prezenti logo" /> 
         </div>
     </div>
 

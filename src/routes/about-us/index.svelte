@@ -24,10 +24,13 @@
 <section>
 
 <div class="corner">
-    <a sveltekit:prefetch href="/links">
+    <a sveltekit:prefetch aria-label="Link to go back" href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
+
+<h1 aria-label="About us page" ></h1>
+
 
 
 <div class="about-us">
@@ -35,7 +38,7 @@
           <Col cols={12} sm={6} md={6}>
             <div class="container">
                 <div class="content">
-                    <img src={image} alt="Welcome" />
+                    <img src={image} alt="Aarons profile picture" />
                 </div>
             </div>
           </Col>
@@ -59,7 +62,7 @@
                             <p><b>Background:</b> I am passionate about making a positive impact in the world we live in. As a project manager, I spent 5 years running a low carbon technology grant programme, disbursing over £50m GBP. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa, identifying, securing, applying and managing funds from a huge variety of donors. Because of these roles I have the unique experience and knowledge of being both the donor and recipient. Since Feb 2021 I have been Chief Operating Officer for TrustWorks Ltd, a UK based fintech building on Celo, helping them deliver cash transfer programs in Latin America to help refugees/vulnerable users use Celo to meet their basic household needs. I have the skills to enable a slick, simple and transparent granting system and process, whilst helping to expand the fund’s impact and further Celo's reach.</p>
                             <p><b>Current Work : </b>My role as COO with Trustworks Ltd is coming to an end in July 2022. I am now a part-time founding contributor for Kakuza.</p>
                         {:else}
-                        <img src={image} alt="Welcome" />
+                        <img src={image} alt="Maya's profile picture" />
                        {/if}
                     </div>
                 </div>
@@ -68,7 +71,7 @@
                 <div class="container">
                     <div class="content">
                         {#if !mobile}
-                            <img src={image} alt="Welcome" />
+                            <img src={image} alt="Maya's profile picture" />
                         {:else}
                             <h2><b>Maya</b></h2>
                             <p><b>Background: </b> I am passionate about making a positive impact in the world we live in. As a project manager, I spent 5 years running a low carbon technology grant programme, disbursing over £50m GBP. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa, identifying, securing, applying and managing funds from a huge variety of donors. Because of these roles I have the unique experience and knowledge of being both the donor and recipient. Since Feb 2021 I have been Chief Operating Officer for TrustWorks Ltd, a UK based fintech building on Celo, helping them deliver cash transfer programs in Latin America to help refugees/vulnerable users use Celo to meet their basic household needs. I have the skills to enable a slick, simple and transparent granting system and process, whilst helping to expand the fund’s impact and further Celo's reach.</p>
@@ -83,7 +86,7 @@
             <Col cols={12} sm={6} md={6}>
                 <div class="container">
                     <div class="content">
-                        <img src={image_wade} alt="Welcome" />
+                        <img src={image_wade} alt="Wades profile picture" />
                     </div>
                 </div>
             </Col>

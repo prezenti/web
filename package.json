@@ -37,6 +37,7 @@
 	"dependencies": {
 		"@fontsource/fira-mono": "^4.5.0",
 		"@smui/layout-grid": "^6.0.0-beta.16",
+		"axe-playwright": "^1.1.11",
 		"cookie": "^0.4.1",
 		"fractils": "^2.0.1",
 		"node-sass": "^7.0.1",
