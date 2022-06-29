@@ -13,17 +13,19 @@
 <section>
 
 <div class="corner">
-    <a sveltekit:prefetch href="/">
+    <a sveltekit:prefetch aria-label="Link to go back" href="/">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
+<h1 aria-label="Links page" ></h1>
 
 <div class="links">
-	<a sveltekit:prefetch href="/">Apply.</a>
-    <a sveltekit:prefetch href="/">Applications.</a>
-    <a sveltekit:prefetch href="/tx">Tx's.</a>
-    <a sveltekit:prefetch href="/about-us">Who are we.</a>
-    <a sveltekit:prefetch href="/history">History.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to information section" href="/info">Info.</a>
+	<a sveltekit:prefetch tabindex="0" aria-label="Link to How-to-apply for a grant" href="/">Apply.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to grant applications" href="/">Applications.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to past Prezenti transactions" href="/tx">Transactions.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to about us section" href="/about-us">Who are we.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to the history of Prezenti" href="/history">History.</a>
 </div>
 
 </section>

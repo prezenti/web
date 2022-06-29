@@ -19,15 +19,15 @@
 
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Prezenti</title>
+	<meta name="Prezenti" content="Get a grant to help the Celo ecosytem" />
 </svelte:head>
 
 <OnMount>
 	<section>
 
 		<a  sveltekit:prefetch href="/links">
-		<img in:customTransition src="prezenti-logo.svg" alt="Welcome" />
+		<img in:customTransition src="prezenti-logo.svg" alt="Welcome to Prezenti - click to enter" />
 
 		<h1>
 			Prezenti
@@ -58,6 +58,7 @@
 		font-size:5rem ;
 		margin:0;
 		padding:0;
+		font-family: 'Cormorant Garamond', serif;
 	}
 
 

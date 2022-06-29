@@ -6,20 +6,21 @@
 
 <svelte:head>
 	<title>Tx tracking</title>
-	<meta name="Tx tracking" content="What are we spending on" />
+	<meta name="Prezenti Tx Tracking" content="What are we spending on" />
 </svelte:head>
 
 <section>
 
 <div class="corner">
-    <a sveltekit:prefetch href="/links">
+    <a sveltekit:prefetch aria-label="Link to go back" href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
 
+<h1 aria-label="Transactions page" ></h1>
 
 <div class="about-us">
-    <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRU7rOrbNlBps2LweCSKL_DS-OCJb2wyVP09mzlvYmrBn74NiZkxKa0MiENsxHYCDNXaXoyuXstc8kA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRU7rOrbNlBps2LweCSKL_DS-OCJb2wyVP09mzlvYmrBn74NiZkxKa0MiENsxHYCDNXaXoyuXstc8kA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
 </section>

@@ -4,7 +4,9 @@
     import Icon from '@iconify/svelte';
     import { Row, Col } from 'svelte-materialify';
     import image from './fake-portrait.jpeg'
-    import image_wade from './portrait-wade.png'
+    import image_wade from './portrait-wade.png';
+    import image_maya from './portrait-maya.png' 
+
     let mobile = false;
 
     onMount(async () => {
@@ -18,16 +20,19 @@
 
 <svelte:head>
 	<title>About Us</title>
-	<meta name="about us" content="Who are we" />
+	<meta name="Prezenti - About Us" content="Who are we" />
 </svelte:head>
 
 <section>
 
 <div class="corner">
-    <a sveltekit:prefetch href="/links">
+    <a sveltekit:prefetch aria-label="Link to go back" href="/links">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
+
+<h1 aria-label="About us page" ></h1>
+
 
 
 <div class="about-us">
@@ -35,7 +40,7 @@
           <Col cols={12} sm={6} md={6}>
             <div class="container">
                 <div class="content">
-                    <img src={image} alt="Welcome" />
+                    <img src={image} alt="Aarons profile picture" />
                 </div>
             </div>
           </Col>
@@ -56,10 +61,10 @@
                     <div class="content">
                         {#if !mobile}
                             <h2><b>Maya</b></h2>
-                            <p><b>Background:</b> I am passionate about making a positive impact in the world we live in. As a project manager, I spent 5 years running a low carbon technology grant programme, disbursing over £50m GBP. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa, identifying, securing, applying and managing funds from a huge variety of donors. Because of these roles I have the unique experience and knowledge of being both the donor and recipient. Since Feb 2021 I have been Chief Operating Officer for TrustWorks Ltd, a UK based fintech building on Celo, helping them deliver cash transfer programs in Latin America to help refugees/vulnerable users use Celo to meet their basic household needs. I have the skills to enable a slick, simple and transparent granting system and process, whilst helping to expand the fund’s impact and further Celo's reach.</p>
-                            <p><b>Current Work : </b>My role as COO with Trustworks Ltd is coming to an end in July 2022. I am now a part-time founding contributor for Kakuza.</p>
+                            <p><b>Background:</b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa managing funds from a variety of donors.  For 18 months I have been the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs</p>
+                            <p><b>Current Work : </b>Contributing to a possible new DAO and this!</p>
                         {:else}
-                        <img src={image} alt="Welcome" />
+                        <img src={image_maya} alt="Maya's profile picture" />
                        {/if}
                     </div>
                 </div>
@@ -68,11 +73,11 @@
                 <div class="container">
                     <div class="content">
                         {#if !mobile}
-                            <img src={image} alt="Welcome" />
+                            <img src={image_maya} alt="Maya's profile picture" />
                         {:else}
                             <h2><b>Maya</b></h2>
-                            <p><b>Background: </b> I am passionate about making a positive impact in the world we live in. As a project manager, I spent 5 years running a low carbon technology grant programme, disbursing over £50m GBP. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa, identifying, securing, applying and managing funds from a huge variety of donors. Because of these roles I have the unique experience and knowledge of being both the donor and recipient. Since Feb 2021 I have been Chief Operating Officer for TrustWorks Ltd, a UK based fintech building on Celo, helping them deliver cash transfer programs in Latin America to help refugees/vulnerable users use Celo to meet their basic household needs. I have the skills to enable a slick, simple and transparent granting system and process, whilst helping to expand the fund’s impact and further Celo's reach.</p>
-                            <p><b>Current Work: </b> My role as COO with Trustworks Ltd is coming to an end in July 2022. I am now a part-time founding contributor for Kakuza.</p>
+                            <p><b>Background: </b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa managing funds from a variety of donors.  For 18 months I have been the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs</p>
+                            <p><b>Current Work: </b> Contributing to a possible new DAO and this!</p>
                         {/if}
                     </div>
                 </div>
@@ -83,7 +88,7 @@
             <Col cols={12} sm={6} md={6}>
                 <div class="container">
                     <div class="content">
-                        <img src={image_wade} alt="Welcome" />
+                        <img src={image_wade} alt="Wades profile picture" />
                     </div>
                 </div>
             </Col>
@@ -91,7 +96,7 @@
                 <div class="container">
                     <div class="content">
                         <h2><b>Wade</b></h2>
-                        <p><b>Background: </b> Operates The Passive Trust, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group that has been running on Celo since Genesis. The Passive Trust has distributed a lot of the funds received from operating the Group and Validator to fund and support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. Wade was initially part of the Mentor/mentee program in The Great Celo Bake Off, his motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like he was.</p>
+                        <p><b>Background: </b> I operate The Passive Trust, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
                         <p><b>Current Work: </b> Operates The Passive Trust. I also contribute to multiple DAOs and open source projects.</p>
                     </div>
                 </div>
