@@ -20,7 +20,7 @@
 <h1 aria-label="Apply page" ></h1>
 
 <div class="apply">
-    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?embedded=true">Loading....</iframe>
+    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe>
 </div>
 
 </section>
@@ -66,7 +66,7 @@
 
     .content p {
         color:#fff;
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }
 

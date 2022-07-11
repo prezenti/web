@@ -20,7 +20,7 @@
 		width: 100vw;
 		margin: 0 auto;
 		box-sizing: border-box;
-		font-family: 'Cormorant Garamond', serif;
+		font-family: 'VECTRO-bold';
 
 	}
 

@@ -65,7 +65,7 @@
 
     .content p {
         color:#fff;
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }
 

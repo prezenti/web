@@ -32,6 +32,8 @@
         setTimeout(toggle, 5400);
 	});
 
+    
+
 </script>
 
 <svelte:head>
@@ -128,6 +130,11 @@
 
 <style>
 
+@font-face{
+	font-family: 'VECTRO-Bold';
+	src: url('/fonts/VECTRO-Bold.woff') format('woff');
+  }
+
     section {
             margin-bottom: 40px;
     }
@@ -185,7 +192,7 @@
     h1 {
         margin-top:7%;
         margin-bottom: 2%;
-        font-family: 'Cormorant Garamond', serif;
+        font-family: 'VECTRO-bold';
         font-size: 3rem;
         line-height: 100%;
     }
@@ -196,7 +203,7 @@
     }
 
     p {
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         text-align: center;
         align-items: center;
         margin-top:3px;
@@ -236,6 +243,12 @@
         opacity: 0.5;
     }
 
+    li a:hover {
+        color:black;
+        background-color:#3bfa98 ;
+        opacity: 0.5;
+    }
+
  
     .corner-a:hover {
         color:white;
@@ -245,7 +258,7 @@
 
     li {
         margin-top:13px;
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
     }
 
 

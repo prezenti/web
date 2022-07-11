@@ -97,7 +97,7 @@
                 <div class="container">
                     <div class="content">
                         <h2><b>Wade</b></h2>
-                        <p><b>Background: </b> I operate The Passive Trust, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
+                        <p><b>Background: </b> I operate <a href="https://thepassivetrust.com">The Passive Trust</a>, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
                         <p><b>Current Work: </b> Operates The Passive Trust. I also contribute to multiple DAOs and open source projects.</p>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
 
     .content p {
         color:#fff;
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }
 
@@ -192,6 +192,12 @@
 
     a:hover {
         color:black;
+        opacity: 0.5;
+    }
+
+    p a:hover {
+        color:black;
+        background-color:#3bfa98 ;
         opacity: 0.5;
     }
 
