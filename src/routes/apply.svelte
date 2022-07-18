@@ -20,7 +20,10 @@
 <h1 aria-label="Apply page" ></h1>
 
 <div class="apply">
-    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe>
+    <p>The application process will be open in the coming weeks!</p>
+    <p>If you would like to be notified once we open, please send a quick email to</p>
+    <p><a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
+    <!-- <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe> -->
 </div>
 
 </section>
@@ -75,6 +78,13 @@
         font-size: 5rem;
         color: var(--secondary-color)
     }
+
+    p a:hover {
+        color:black;
+        background-color:#3bfa98 ;
+        opacity: 0.5;
+    }
+
      
     h2 {
         text-align: center;
@@ -106,7 +116,7 @@
 
     @media (max-width: 600px) {
         a {
-            font-size: 4rem;
+            font-size: 3rem;
         }
         .corner {
 
