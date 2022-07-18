@@ -3,9 +3,11 @@
     import { onMount } from 'svelte';
     import Icon from '@iconify/svelte';
     import { Row, Col } from 'svelte-materialify';
-    import image from './fake-portrait.jpeg'
+    import image from './portrait-aaron.png'
     import image_wade from './portrait-wade.png';
-    import image_maya from './portrait-maya.png' 
+    import image_maya from './portrait-maya.png';
+    import subject from './subject.png' 
+ 
 
     let mobile = false;
 
@@ -48,8 +50,7 @@
             <div class="container">
                 <div class="content">
                     <h2><b>Aaron</b></h2>
-                    <p><b>Background:</b> Software engineer for nearly 20 years, worked the better part of 15 years in the financial services industry in Australia (banking, insurance, superannuation). Active in the blockchain space since 2013 and advocate for economic self-determination.</p>
-                    <p><b>Current Work:</b> Founder and operator of VladiatorLabs.io, a protocol-aligned infrastructure company currently in the process of incorporating in Switzerland and expanding to other proof-of-stake networks, especially in the Cosmos ecosystem. Vladiator Labs is a founding project in the Staking Defense League, an infrastructure special interests group aimed at promoting decentralization in the staking space. Additionally has worked briefly as a contractor within cLabs on some minor projects. Involved in the Celo ecosystem since the incentivised testnet and have been supported by the Celo Foundation as an elected validator since genesis (over two different validator groups). Freelance Solidity, blockchain, database and cloud engineer and recently has worked with RaveSpace on metaverse NFT gallery https://musee-dezentral.com.</p>
+                    <p>Founder and operator of <a href="https://vladiatorlabs.io/">VladiatorLabs.io</a>, a protocol-aligned infrastructure company validating on Celo and expanding to other proof-of-stake networks, especially in the Cosmos ecosystem. Vladiator Labs is a founding project in the Staking Defense League, an infrastructure special interests group aimed at promoting decentralization in the staking space. Freelance Solidity, blockchain, database and cloud engineer and recently has worked with <a href="https://ravespace.io/">RaveSpace</a> on metaverse NFT gallery <a href="https://musee-dezentral.com">Musee Dezentral</a>.</p>
                 </div>
             </div>
           </Col>
@@ -96,8 +97,35 @@
                 <div class="container">
                     <div class="content">
                         <h2><b>Wade</b></h2>
-                        <p><b>Background: </b> I operate The Passive Trust, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
+                        <p><b>Background: </b> I operate <a href="https://thepassivetrust.com">The Passive Trust</a>, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
                         <p><b>Current Work: </b> Operates The Passive Trust. I also contribute to multiple DAOs and open source projects.</p>
+                    </div>
+                </div>
+            </Col>
+          </Row>
+
+          <Row noGutters>
+            <Col cols={12} sm={6} md={6}>
+                <div class="container">
+                    <div class="content">
+                        {#if !mobile}
+                            <h2><b>Subject matter experts</b></h2>
+                            <p>We call on experts of particular domains or regions when needed. This is done when we need clarification on a grant that has been proposed or for outreach to get the right people connected with Prezenti and funded. If you interested to support us please reach out.</p>
+                        {:else}
+                        <img src={subject} alt="Maya's profile picture" />
+                       {/if}
+                    </div>
+                </div>
+            </Col>
+            <Col cols={12} sm={6} md={6}>
+                <div class="container">
+                    <div class="content">
+                        {#if !mobile}
+                            <img src={subject} alt="Maya's profile picture" />
+                        {:else}
+                            <h2><b>Subject matter experts</b></h2>
+                            <p>We call on experts of particular domains or regions when needed. This is done when we need clarification on a grant that has been proposed or for outreach to get the right people connected with Prezenti and funded. If you interested to support us please reach out.</p>
+                        {/if}
                     </div>
                 </div>
             </Col>
@@ -146,13 +174,13 @@
 
     .content p {
         color:#fff;
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }
 
     a {
         text-decoration: none;
-        font-size: 5rem;
+        font-size: 1rem;
         color: var(--secondary-color)
     }
      
@@ -167,6 +195,12 @@
         opacity: 0.5;
     }
 
+    p a:hover {
+        color:black;
+        background-color:#3bfa98 ;
+        opacity: 0.5;
+    }
+
     .corner {
         padding:5%;
 		width: 1rem;
@@ -176,12 +210,11 @@
 
     .corner a {
         color:var(--tertiary-color);
+        font-size: 5rem;
     }
 
-    .corner img {
-        width: 3rem;
-        height: 3rem;
-    }
+    
+
 
     @media (max-width: 600px) {
 
@@ -195,10 +228,13 @@
     }
 
     @media (max-width: 400px) {
-
         a {
-            font-size: 2.4rem;
+            font-size: 0.7rem;
         }
+
+        .corner a {
+            font-size: 2.4rem;
+         }
 
     }
 

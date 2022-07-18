@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>Tx tracking</title>
-	<meta name="Prezenti Tx Tracking" content="What are we spending on" />
+	<title>Apply For a Grant</title>
+	<meta name="Prezenti Apply" content="Create a grants application" />
 </svelte:head>
 
 <section>
@@ -17,21 +17,22 @@
     </a>
 </div>
 
-<h1 aria-label="Transactions page" ></h1>
+<h1 aria-label="Apply page" ></h1>
 
-<div class="about-us">
-    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRU7rOrbNlBps2LweCSKL_DS-OCJb2wyVP09mzlvYmrBn74NiZkxKa0MiENsxHYCDNXaXoyuXstc8kA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<div class="apply">
+    <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe>
 </div>
 
 </section>
 
 <style>
 
-	.about-us {
+	.apply {
 		justify-content: center;
 		align-items: center;
 		height:80vh;
-	}
+        color: white	
+    }
 
     img {
         padding:5%;

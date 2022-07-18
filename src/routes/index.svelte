@@ -15,6 +15,8 @@
 	  init: true
     };
   };
+
+  
 </script>
 
 
@@ -30,7 +32,7 @@
 		<img in:customTransition src="prezenti-logo.svg" alt="Welcome to Prezenti - click to enter" />
 
 		<h1>
-			Prezenti
+			PREZENTI
 		</h1>
 		<p>Where thinkers, trailblazers and workers come for grants to make their dreams a reality on the Celo network</p>
 	</a>
@@ -50,7 +52,7 @@
 	}
 
 	img {
-		max-width: 375px;
+		max-width: 230px;
 	}
 
 	h1 {
@@ -58,7 +60,7 @@
 		font-size:5rem ;
 		margin:0;
 		padding:0;
-		font-family: 'Cormorant Garamond', serif;
+		font-family: 'VECTRO-bold';
 	}
 
 
@@ -73,6 +75,8 @@
 	p {
 		margin:0 20% 0 20%;
 		color:white;
+		font-size:1.5rem;
+		font-family: 'Roboto'
 	}
 
 	a:hover {

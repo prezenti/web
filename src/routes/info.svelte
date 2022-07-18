@@ -125,7 +125,7 @@
     h1 {
         margin-top:7%;
         margin-bottom: 2%;
-        font-family: 'Cormorant Garamond', serif;
+        font-family: 'VECTRO-bold';
         font-size: 3rem;
         line-height: 100%;
     }
@@ -134,20 +134,20 @@
         font-weight: bold;
         font-size: 1.5rem;
         margin-bottom:3px;
-        font-family: 'Cormorant Garamond', serif;
+        font-family: 'VECTRO-bold';
         line-height: 100%;
         
     }
 
     p {
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         text-align: center;
         align-items: center;
         margin-top:3px;
     }
 
     .apply-text {
-        font-family: 'Proza Libre', sans-serif;
+        font-family: 'Roboto', sans-serif;
         text-align: left;
         align-items: left;
         margin-top:3px;
