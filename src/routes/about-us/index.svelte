@@ -111,8 +111,9 @@
                         {#if !mobile}
                             <h2><b>Subject matter experts</b></h2>
                             <p>We call on experts of particular domains or regions when needed. This is done when we need clarification on a grant that has been proposed or for outreach to get the right people connected with Prezenti and funded. If you interested to support us please reach out.</p>
+                            <p>If you are in helping Prezenti by being a subject matter expert, please contact <a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
                         {:else}
-                        <img src={subject} alt="Maya's profile picture" />
+                        <img src={subject} alt="SM profile picture" />
                        {/if}
                     </div>
                 </div>
@@ -121,10 +122,11 @@
                 <div class="container">
                     <div class="content">
                         {#if !mobile}
-                            <img src={subject} alt="Maya's profile picture" />
+                            <img src={subject} alt="SM profile picture" />
                         {:else}
                             <h2><b>Subject matter experts</b></h2>
-                            <p>We call on experts of particular domains or regions when needed. This is done when we need clarification on a grant that has been proposed or for outreach to get the right people connected with Prezenti and funded. If you interested to support us please reach out.</p>
+                            <p>We call on experts of particular domains or regions when needed. This is done when we need clarification on a grant that has been proposed or for outreach to get the right people connected with Prezenti and funded.</p>
+                            <p>If you are in helping Prezenti by being a subject matter expert, please contact <a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
                         {/if}
                     </div>
                 </div>

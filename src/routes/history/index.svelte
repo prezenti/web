@@ -79,7 +79,7 @@
             </div>
 
             <div class="container">
-                <div in:fade="{{delay:4100, duration:1000}}" class="content">
+                <div in:fade="{{delay:4100, duration:1000}}" class="content-logo-animation">
                     <img src="prezenti-logo.svg" alt="Prezenti logo" />
                 </div>
             </div>
@@ -89,12 +89,12 @@
 {#if show}
 <div class="history-typewriter">
     
-    <div class="container">
-        <div  class="content">
+    <div class="container-logo">
+        <div  class="content-logo">
             <img src="prezenti-logo.svg" alt="Prezenti logo" />
         </div>
     </div>
-
+    <div>
     <Typewriter cascade interval={2}>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
@@ -123,6 +123,7 @@
         </div>
     </Typewriter>
 </div>
+</div>
 {/if}    
 {/if}   
 </section>
@@ -144,12 +145,11 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		height:100vh;
+		height:80vh;
         margin-top: -10%;
 	}
 
     .history-typewriter {
-		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
@@ -161,6 +161,16 @@
         flex-wrap: wrap;
         min-height: 15vh;
         width:20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: var(--mdc-theme-on-secondary, #fff);
+    }
+
+    .container-logo {
+        flex-wrap: wrap;
+        min-height: 15vh;
+        width:100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -220,6 +230,23 @@
         font-size: 3rem;
     }
 
+    .content-logo {
+        width:20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        font-size: 3rem;
+    }
+
+    .content-logo-animation {
+        width:80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        font-size: 3rem;
+    }
     .celo {
         padding:4%;
     }
