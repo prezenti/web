@@ -331,10 +331,10 @@
         }
 
         .history-typewriter {
-            margin-top: 40%;
+
         }
 
-        .container {
+        .container-logo {
             margin-top:10%
          }
 
