@@ -28,11 +28,18 @@
             <div  class="content-typewriter">
                 <h1>What is Prezenti</h1>
                 <p>Prezenti is a grant fund for the Celo community.</p>
-                <p>Prezenti is the second phase Celo community approved spend proposal from the on-chain <a href="https://docs.celo.org/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund">Community Fund</a>[<a href="https://explorer.celo.org/address/0xD533Ca259b330c7A88f74E000a3FaEa2d63B7972/tokens">explorer</a>]. Community members seeking grant funding can apply to Prezenti which is managed by three community stewards. Alternatively there is always the option of submitting their own <a href="https://docs.celo.org/celo-codebase/protocol/governance">governance</a> spend proposal to be voted on by CELO owners.
+                <p>Prezenti is the second phase of the Celo Community Fund that was created with an approved spend proposal from the on-chain <a href="https://docs.celo.org/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund">Community Fund</a>[<a href="https://explorer.celo.org/address/0xD533Ca259b330c7A88f74E000a3FaEa2d63B7972/tokens">explorer</a>]. Community members seeking grant funding can apply to Prezenti, which three community stewards manage. We provide grants of between 5000 - 50,000 $cUSD or equivalent $CELO amount. Alternatively, if you seek a higher amount, there is always the option of submitting their own <a href="https://docs.celo.org/celo-codebase/protocol/governance">governance</a> spend proposal to be voted on by CELO owners.
 
-                    Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fits into one of these focus areas.
+                    Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fit into one of the following focus areas.</p>
+
+                    <ul>
+                        <li><b>Community tools</b></li>
+                        <li><b>Research</b></li>
+                        <li><b>Education</b></li>
+                        <li><b>Other</b></li>
+                    </ul>
                     
-                    It's great there are numerous avenues for grant funding: <a href="https://celo.org/experience/grants#introduction">Celo Foundation Grants</a> and the  <a href="https://climatecollective.org">Climate Collective</a>. We work closely with each granting entity to ensure we all offer the best service to the community.</p>
+                  <p> We work closely with other granting entities like <a href="https://celo.org/experience/grants#introduction">Celo Foundation Grants</a> and the  <a href="https://climatecollective.org">Climate Collective</a> to ensure we capture services that may not fit with the other programs. Although closely aligned, we are independent of the Celo foundation.</p>
                 <p>If you're building something on Celo then get in touch and let’s discuss how we might be able to help you.</p>    
                 </div>
         </div>
@@ -40,7 +47,12 @@
             <div  class="content-typewriter">
                 <h1>How to apply</h1>
 
-                <p>You can apply to the Prezenti fund using the attached application form. </p>
+
+                <p>The application process will be open in the coming weeks!</p>
+
+                <p>If you would like to be notified once we open, please send a quick email to <a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
+
+                <!-- <p>You can apply to the Prezenti fund using the attached application form. </p>
 
                 <p>At present applications are taken on a rolling basis.</p>
 
@@ -59,7 +71,7 @@
                 <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process.</p>
 
                 <h2>Step 5: Build and launch your project</h2>
-                <p class="apply-text">Get started with the tutorials, learn about the SDK and<a href="https://github.com/celo-org">explore</a> the codebase.</p>
+                <p class="apply-text">Get started with the tutorials, learn about the SDK and<a href="https://github.com/celo-org">explore</a> the codebase.</p> -->
             </div>
         </div>
 
@@ -145,6 +157,8 @@
         align-items: center;
         margin-top:3px;
     }
+
+
 
     .apply-text {
         font-family: 'Roboto', sans-serif;
