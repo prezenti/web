@@ -175,7 +175,7 @@
     }
 
     .content p {
-        color:#fff;
+        color:var(--text-color);
         font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }

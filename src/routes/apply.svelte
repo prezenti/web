@@ -34,7 +34,7 @@
 		justify-content: center;
 		align-items: center;
 		height:80vh;
-        color: white	
+        color: var(--text-color);	
     }
 
     img {
