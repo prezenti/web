@@ -13,12 +13,12 @@
 	Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	--font-mono: 'Open Sans';
 	--pure-white: #ffffff;
-	--primary-color: #111214;
+	--primary-color: #ffffff;
 	--secondary-color: #FBCC5C;
 	--tertiary-color: #FFFFFF;
 	--accent-color: #ff3e00;
 	--heading-color: #FBCC5C;
-	--text-color: #444444;
+	--text-color: #111214;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;

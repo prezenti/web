@@ -193,11 +193,11 @@
         align-items: center;
         margin: auto;
         font-size: 1rem;
-        color: white;
+        color: var(--text-color);
     }
 
     .content-typewriter p {
-        color: white;
+        color: var(--text-color);
     }
     h1 {
         margin-top:7%;
@@ -278,7 +278,7 @@
 
  
     .corner-a:hover {
-        color:white;
+        color:var(--text-color);
         opacity: 0.5;
 
     } 
@@ -296,7 +296,7 @@
 	}
 
     .corner a {
-        color:var(--tertiary-color);
+        color:var(--text-color);
         font-size: 5rem;
     }
 

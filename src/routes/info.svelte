@@ -127,11 +127,11 @@
         align-items: center;
         margin: auto;
         font-size: 1rem;
-        color: white;
+        color: var(--text-color);
     }
 
     .content-typewriter p {
-        color: white;
+        color: var(--text-color);
     }
 
     h1 {
@@ -181,11 +181,11 @@
 
     .corner a {
             font-size: 5rem;
-            color:var(--tertiary-color);
+            color:var(--text-color);
          }
 
     .corner-a:hover {
-        color:white;
+        color:var(--text-color);
         opacity: 0.5;
 
     } 
