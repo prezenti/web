@@ -211,7 +211,7 @@
 	}
 
     .corner a {
-        color:var(--tertiary-color);
+        color:var(--text-color);
         font-size: 5rem;
     }
 

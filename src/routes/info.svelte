@@ -181,7 +181,7 @@
 
     .corner a {
             font-size: 5rem;
-            color:var(--tertiary-color);
+            color:var(--text-color);
          }
 
     .corner-a:hover {

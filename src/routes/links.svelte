@@ -13,7 +13,7 @@
 <section>
 
 <div class="corner">
-    <a sveltekit:prefetch aria-label="Link to go back" href="/">
+    <a class="corner-a" sveltekit:prefetch aria-label="Link to go back" href="/">
         <Icon icon="mdi:arrow-left" />
     </a>
 </div>
@@ -31,6 +31,10 @@
 </section>
 
 <style>
+
+    section {
+            margin-bottom: 40px;
+        }
 	.links {
 		display: flex;
 		flex-direction: column;
@@ -51,15 +55,24 @@
 
     }
 
+    .corner a {
+        padding:5%;
+		width: 1rem;
+		height: 1rem;
+        color:var(--text-color);
+         }
+
     .corner {
         padding:5%;
 		width: 1rem;
 		height: 1rem;
 	}
 
-    .corner a {
-        color:var(--tertiary-color);
-    }
+    .corner-a:hover {
+        color:var(--text-color);
+        opacity: 0.5;
+
+    } 
     .corner img {
         width: 3rem;
         height: 3rem;
