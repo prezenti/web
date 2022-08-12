@@ -4,7 +4,7 @@
     import Typewriter from 'svelte-typewriter';
     import Icon from '@iconify/svelte';
     import celo from './celo.svg'
-    import ccf from './ccf.svg'
+    import ccf from './ccf-dk.svg'
     let show = false;
     let ready = false;
 
@@ -61,7 +61,7 @@
             </div>
 
             <div class="container">
-                <div in:fade="{{delay:1100, duration:1000}}" class="content">
+                <div in:fade="{{delay:1100, duration:1000}}" class="content arrow">
                     <Icon icon="mdi:arrow-down" />
                 </div>
             </div>
@@ -73,7 +73,7 @@
             </div>
 
             <div class="container">
-                <div in:fade="{{delay:3100, duration:1000}}" class="content">
+                <div in:fade="{{delay:3100, duration:1000}}" class="content arrow">
                     <Icon icon="mdi:arrow-down" />
                 </div>
             </div>
@@ -228,6 +228,11 @@
         align-items: center;
         margin: auto;
         font-size: 3rem;
+        
+    }
+
+    .arrow {
+        color:var(--text-color);
     }
 
     .content-logo {
