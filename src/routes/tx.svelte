@@ -95,7 +95,7 @@
 	}
 
     .corner a {
-        color:var(--tertiary-color);
+        color:var(--text-color);
     }
     .corner img {
 

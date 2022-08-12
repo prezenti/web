@@ -1,6 +1,12 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+	import '@beyonk/gdpr-cookie-consent-banner/dist/style.css' // optional, you can also define your own styles
+    import GdprBanner from '@beyonk/gdpr-cookie-consent-banner'
+
+	function initAnalytics () {
+    // do something with segment.io or google analytics etc
+  }
 </script>
 
 
@@ -8,8 +14,11 @@
 	<slot />
 </main>
 
+
+
 <footer>
-	<!-- <p>company name....</p> -->
+		<GdprBanner class="gdpr" heading="Privacy Notice" description="We use cookies to improve your browsing experience, show you personalized ads or content, and analyze our traffic. By clicking Accept Cookies you consent to our use of cookies." on:analytics={initAnalytics} />
+
 </footer>
 
 <style>
@@ -24,6 +33,8 @@
 
 	}
 
+
+
 	footer {
 		display: flex;
 		flex-direction: column;
@@ -32,6 +43,7 @@
 		position: fixed;
 		bottom: 0;
 		width:100vw;
+		font-family: 'Roboto' !important;
 		
 	}
 

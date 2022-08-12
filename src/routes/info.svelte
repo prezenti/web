@@ -31,14 +31,15 @@
                 <p>Prezenti is the second phase of the Celo Community Fund that was created with an approved spend proposal from the on-chain <a href="https://docs.celo.org/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund">Community Fund</a>[<a href="https://explorer.celo.org/address/0xD533Ca259b330c7A88f74E000a3FaEa2d63B7972/tokens">explorer</a>]. Community members seeking grant funding can apply to Prezenti, which three community stewards manage. We provide grants of between 5000 - 50,000 $cUSD or equivalent $CELO amount. Alternatively, if you seek a higher amount, there is always the option of submitting their own <a href="https://docs.celo.org/celo-codebase/protocol/governance">governance</a> spend proposal to be voted on by CELO owners.
 
                     Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fit into one of the following focus areas.</p>
-
+                    <hr/>
+                    <h1>Focus Areas</h1>
                     <ul>
-                        <li><b>Community tools</b></li>
-                        <li><b>Research</b></li>
-                        <li><b>Education</b></li>
-                        <li><b>Other</b></li>
+                        <li><b>Education </b><i> is the why.</i></li><p> Having informative data in various forms is the initial starting point for people to gain awareness. We can picture this as seeds that are thrown in a field to grow</p>
+                        <li><b>Research </b><i> is the growth.</i></li><p> Once we have the why, we can dive deeper, build upon our initial interest and build conviction to an idea. We can picture this as the water and nutrients that help the seed to grow strong and become a plant </p>
+                        <li><b>Commmunity Tools </b><i> are the How</i></li><p> Once we have a belief and a conviction, we need the appropriate tools to be able to execute these ideas. We can think of this as the environment. We need this to be ideal to grow strong.</p>
+                        <li><b>Other </b><i> captures serendipity</i></li><p>While the other items are part of the growth story. We leave room for flexibility. </p>
                     </ul>
-                    
+                    <hr/>
                   <p> We work closely with other granting entities like <a href="https://celo.org/experience/grants#introduction">Celo Foundation Grants</a> and the  <a href="https://climatecollective.org">Climate Collective</a> to ensure we capture services that may not fit with the other programs. Although closely aligned, we are independent of the Celo foundation.</p>
                 <p>If you're building something on Celo then get in touch and let’s discuss how we might be able to help you.</p>    
                 </div>
@@ -79,7 +80,10 @@
 
 
 <style>
-
+    hr {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
     section {
         margin-bottom: 40px;
     }
@@ -127,11 +131,11 @@
         align-items: center;
         margin: auto;
         font-size: 1rem;
-        color: white;
+        color: var(--text-color);
     }
 
     .content-typewriter p {
-        color: white;
+        color: var(--text-color);
     }
 
     h1 {
@@ -181,11 +185,11 @@
 
     .corner a {
             font-size: 5rem;
-            color:var(--tertiary-color);
+            color:var(--text-color);
          }
 
     .corner-a:hover {
-        color:white;
+        color:var(--text-color);
         opacity: 0.5;
 
     } 

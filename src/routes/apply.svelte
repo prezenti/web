@@ -34,7 +34,7 @@
 		justify-content: center;
 		align-items: center;
 		height:80vh;
-        color: white	
+        color: var(--text-color);	
     }
 
     img {
@@ -106,7 +106,7 @@
 	}
 
     .corner a {
-        color:var(--tertiary-color);
+        color:var(--text-color);
     }
     .corner img {
 

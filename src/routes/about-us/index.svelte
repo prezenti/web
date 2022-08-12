@@ -3,10 +3,10 @@
     import { onMount } from 'svelte';
     import Icon from '@iconify/svelte';
     import { Row, Col } from 'svelte-materialify';
-    import image from './portrait-aaron.png'
-    import image_wade from './portrait-wade.png';
-    import image_maya from './portrait-maya.png';
-    import subject from './subject.png' 
+    import image from './portrait-aaron-white.png'
+    import image_wade from './portrait-wade-white.png';
+    import image_maya from './portrait-maya-white.png';
+    import subject from './subject-white.png' 
  
 
     let mobile = false;
@@ -175,7 +175,7 @@
     }
 
     .content p {
-        color:#fff;
+        color:var(--text-color);
         font-family: 'Roboto', sans-serif;
         font-size: 0.9rem;
     }
@@ -211,7 +211,7 @@
 	}
 
     .corner a {
-        color:var(--tertiary-color);
+        color:var(--text-color);
         font-size: 5rem;
     }
 

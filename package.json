@@ -35,6 +35,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@beyonk/gdpr-cookie-consent-banner": "^9.0.3",
 		"@fontsource/fira-mono": "^4.5.0",
 		"@smui/layout-grid": "^6.0.0-beta.16",
 		"axe-playwright": "^1.1.11",

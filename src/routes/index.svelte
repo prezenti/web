@@ -74,7 +74,7 @@
 
 	p {
 		margin:0 20% 0 20%;
-		color:white;
+		color:var(--text-color);
 		font-size:1.5rem;
 		font-family: 'Roboto'
 	}
