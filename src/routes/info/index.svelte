@@ -1,7 +1,7 @@
 <script lang="ts">
 	export const prerender = true;
     import Icon from '@iconify/svelte';
-	import Item from './Item.svelte'
+	import Item from './item.svelte'
 
     const data = {
 		'Who will make grant decisions?': ["The three Prezenti stewards will make grant decisions. In some cases, if additional expertise or help is needed they may enlist help from Celo community members or subject matter experts. However, the final decision will be made by the stewards."],
