@@ -1,7 +1,7 @@
 <script>
 	import { slide } from "svelte/transition";
 	export let entry
-	let isOpen = false
+	let isOpen = false 
 	const toggle = () => isOpen = !isOpen
 </script>
 <style>
