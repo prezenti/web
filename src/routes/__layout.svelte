@@ -17,8 +17,9 @@
 
 
 <footer>
+	<p>
 		<GdprBanner class="gdpr" heading="Privacy Notice" description="We use cookies to improve your browsing experience, show you personalized ads or content, and analyze our traffic. By clicking Accept Cookies you consent to our use of cookies." on:analytics={initAnalytics} />
-
+	</p>
 </footer>
 
 <style>
@@ -29,11 +30,14 @@
 		width: 100vw;
 		margin: 0 auto;
 		box-sizing: border-box;
-		font-family: 'VECTRO-bold';
-
 	}
 
-
+	p {
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        align-items: center;
+        margin-top:3px;
+    }
 
 	footer {
 		display: flex;
@@ -42,14 +46,11 @@
 		align-items: center;
 		position: fixed;
 		bottom: 0;
-		width:100vw;
-		font-family: 'Roboto' !important;
-		
+		width:100vw;		
 	}
 
 	footer p {
-		font-weight: bold;
-		color:var(--tertiary-color);
+		font-family: 'Roboto';
 	}
 
 

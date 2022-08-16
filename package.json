@@ -43,6 +43,7 @@
 		"fractils": "^2.0.1",
 		"node-sass": "^7.0.1",
 		"sass": "^1.52.3",
+		"svelte-accessible-accordion": "^2.1.0",
 		"svelte-materialify": "^0.3.11"
 	}
 }

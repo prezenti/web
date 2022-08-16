@@ -2972,6 +2972,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
+svelte-accessible-accordion@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/svelte-accessible-accordion/-/svelte-accessible-accordion-2.1.0.tgz#96d5f5db49ff73b4572fa344dd3a05db966063cb"
+  integrity sha512-1FWW7wXnSMtvRe0heyszUuH60VOCJplULlfVmU+2K6BToiEl9/YfoZeiapl5iK4axhxJLtp7AFCMDRMrPteX7A==
+
 svelte-check@^2.7.1:
   version "2.7.2"
   resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.7.2.tgz#0e31e4d3d766ca41f38812cfb1c3257654c93e34"
