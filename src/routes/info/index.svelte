@@ -36,7 +36,7 @@
     
     <div class="container">
         <div  class="content">
-            <img src="prezenti-logo.svg" alt="Prezenti logo" /> 
+            <img src="prezenti-logo.png" alt="Prezenti logo" /> 
         </div>
     </div>
 
@@ -241,7 +241,7 @@
 
     p a:hover {
         color:black;
-        background-color:#3bfa98 ;
+        background-color:#44d8f2 ;
         opacity: 0.5;
     }
 

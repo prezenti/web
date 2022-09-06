@@ -29,12 +29,12 @@
 	<section>
 
 		<a  sveltekit:prefetch href="/links">
-		<img in:customTransition src="prezenti-logo.svg" alt="Welcome to Prezenti - click to enter" />
+		<img in:customTransition src="prezenti-logo.png" alt="Welcome to Prezenti - click to enter" />
 
 		<h1>
 			PREZENTI
 		</h1>
-		<p>Where thinkers, trailblazers and workers come for grants to make their dreams a reality on the Celo network</p>
+		<p>Where thinkers and trailblazers come for grants to make their dreams a reality on the Celo network</p>
 	</a>
 
 	</section>

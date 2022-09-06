@@ -271,13 +271,13 @@
 
     p a:hover {
         color:black;
-        background-color:#3bfa98 ;
+        background-color:#44d8f2;
         opacity: 0.5;
     }
 
     li a:hover {
         color:black;
-        background-color:#3bfa98 ;
+        background-color:#44d8f2 ;
         opacity: 0.5;
     }
 
