@@ -49,12 +49,12 @@
                     Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fit into one of the following focus areas.</p>
                     <hr/>
                     <h1>Focus Areas</h1>
-                    <ul>
-                        <li><b>Education </b><i> is the why.</i></li><p> Having informative data in various forms is the initial starting point for people to gain awareness. We can picture this as seeds that are thrown in a field to grow</p>
-                        <li><b>Research </b><i> is the growth.</i></li><p> Once we have the why, we can dive deeper, build upon our initial interest and build conviction to an idea. We can picture this as the water and nutrients that help the seed to grow strong and become a plant </p>
-                        <li><b>Commmunity Tools </b><i> are the How</i></li><p> Once we have a belief and a conviction, we need the appropriate tools to be able to execute these ideas. We can think of this as the environment. We need this to be ideal to grow strong.</p>
-                        <li><b>Other </b><i> captures serendipity</i></li><p>While the other items are part of the growth story. We leave room for flexibility. </p>
-                    </ul>
+                    <div>
+                        <div ><img class="focus-area-image" src="Education_1.svg" alt="" /> <p><b>Education </b><i> is the why.</i></p></div><p> Having informative data in various forms is the initial starting point for people to gain awareness. We can picture this as seeds that are thrown in a field to grow</p>
+                        <div><img class="focus-area-image" src="Research_1.svg" alt="" /> <p><b>Research </b><i> is the growth.</i></p></div><p> Once we have the why, we can dive deeper, build upon our initial interest and build conviction to an idea. We can picture this as the water and nutrients that help the seed to grow strong and become a plant </p>
+                        <div><img class="focus-area-image" src="Community Tools_1.svg" alt="" /> <p><b>Commmunity Tools </b><i> are the How</i></p></div><p> Once we have a belief and a conviction, we need the appropriate tools to be able to execute these ideas. We can think of this as the environment. We need this to be ideal to grow strong.</p>
+                        <div><img class="focus-area-image" src="Others_1.svg" alt="" /> <p><b>Other </b><i> captures serendipity</i></p></div><p>While the other items are part of the growth story. We leave room for flexibility. </p>
+                    </div>
                     <hr/>
                     <h1>Celo Grant Ecosystem</h1>
                   <p> We work closely with other granting entities like <a href="https://celo.org/experience/grants#introduction">Celo Foundation Grants</a> and the  <a href="https://climatecollective.org">Climate Collective</a> to ensure we capture services that may not fit with the other programs. Although closely aligned, we are independent of the Celo foundation.</p>
@@ -177,6 +177,10 @@
         font-family: 'VECTRO-bold';
         font-size: 3rem;
         line-height: 100%;
+    }
+
+    .focus-area-image {
+        height: 100px;
     }
 
     h2 {
