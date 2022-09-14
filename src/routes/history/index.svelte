@@ -145,6 +145,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
+        min-height: 1000px;
 		height:80vh;
         margin-top: -10%;
 	}
@@ -317,8 +318,13 @@
         a {
             font-size: 4rem;
         }
+        
+        .history-animation {
+            min-height: auto;
+	    }
 
     }
+
 
     @media (max-width: 400px) {
 
@@ -346,6 +352,10 @@
          .corner a {
             font-size: 2.4rem;
          }
+
+        .history-animation {
+            min-height: auto;
+	    }
     }
 
     
