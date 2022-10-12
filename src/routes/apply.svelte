@@ -20,10 +20,12 @@
 <h1 aria-label="Apply page" ></h1>
 
 <div class="apply">
-    <p>The application process will be open in the coming weeks!</p>
+    <!-- <p>The application process will be open in the coming weeks!</p>
     <p>If you would like to be notified once we open, please send a quick email to</p>
-    <p><a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
+    <p><a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p> -->
     <!-- <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe> -->
+    <div id="ff-compose"></div>
+<script async defer src="https://formfacade.com/include/100113532735355078880/form/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/classic.js?div=ff-compose"></script>
 </div>
 
 </section>
@@ -34,7 +36,8 @@
 		justify-content: center;
 		align-items: center;
 		height:80vh;
-        color: var(--text-color);	
+        color: var(--text-color);
+        padding-bottom: 100px	
     }
 
     img {

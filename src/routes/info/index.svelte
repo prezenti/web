@@ -68,44 +68,39 @@
                     {/each}
                 </div>
                 <hr/>
-                </div>
-                
-        </div>
-
-
-
-        <div class="container-typewriter ">
-            <div  class="content-typewriter">
                 <h1>How to apply</h1>
-
-
-                <p>The application process will be open in the coming weeks!</p>
-
-                <p>If you would like to be notified once we open, please send a quick email to <a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p>
-
-                <!-- <p>You can apply to the Prezenti fund using the attached application form. </p>
+                <p>You can apply to the Prezenti fund using the attached application form. </p>
 
                 <p>At present applications are taken on a rolling basis.</p>
 
                 <p>Here’s how the Prezenti process works, from application to finish line.</p>
-
+                <br>
+                <br>
+                <br>
                 <h2>Step 1: Choose a category</h2>
-                <p class="apply-text">If your project fits into one of these 4 grant programs and aligns with the Celo mission, you’re a candidate for a Prezenti grant. Join Discord and reach out.</p>
+                <p class="apply-text"> If your project fits into one of these 4 focus areas and aligns with the Celo mission, you’re a candidate for a Prezenti grant. Join Discord and reach out:</p>
+                    <ul>
+                        <li>Education</li>
+                        <li>Research</li>
+                        <li>Community Tools</li>
+                        <li>Other</li>
+                    </ul>    
 
                 <h2>Step 2: Submit your grant application</h2>
-                <p class="apply-text">Make sure you thoroughly complete the application form and clearly state how your project will contribute to the Celo ecosystem. Please review the Grant Application Terms and Conditions before submitting.</p>
+                <p class="apply-text">Make sure you thoroughly complete the application form via <a href="/apply">apply</a> and clearly state how your project will contribute to the Celo ecosystem. Please review the Grant Application <a href="https://prezenti.notion.site/Terms-Conditions-89ba6399111c46f0b788eb0a67bfa05a">Terms and Conditions</a> before submitting.</p>
 
                 <h2>Step 3: Evaluation and approval</h2>
-                <p class="apply-text">The Stewards will review your application in the order it is received. If your proposal meets the program criteria, you will be invited to an interview with two committee members.</p>
+                <p class="apply-text">The Stewards will review applications during the first week of each month, so be mindful of when you hit submit! If your proposal meets the program criteria, you will be invited to the next stage of the process.</p>
 
                 <h2>Step 4: Acceptance or denial notification</h2>
-                <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process.</p>
+                <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process. Please note we will be using <a href="https://questbook.app/">Questbook</a> for releasing milestone payments. </p>
 
                 <h2>Step 5: Build and launch your project</h2>
-                <p class="apply-text">Get started with the tutorials, learn about the SDK and<a href="https://github.com/celo-org">explore</a> the codebase.</p> -->
+                <p class="apply-text">Get started with the tutorials, learn about the SDK and <a href="https://github.com/celo-org">explore</a> the codebase.</p>
                 
-            </div>
-            
+                </div>
+                
+        </div>
 
         </div>
 

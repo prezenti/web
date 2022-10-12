@@ -94,7 +94,7 @@
             <img src="prezenti-logo.svg" alt="Prezenti logo" />
         </div>
     </div>
-    <div>
+
     <Typewriter cascade interval={2}>
         <div class="container-typewriter ">
             <div  class="content-typewriter">
@@ -122,6 +122,7 @@
             </div>
         </div>
     </Typewriter>
+    <div>
 </div>
 </div>
 {/if}    
@@ -148,6 +149,7 @@
         min-height: 1000px;
 		height:80vh;
         margin-top: -10%;
+        padding-bottom: 100px
 	}
 
     .history-typewriter {
@@ -156,6 +158,8 @@
 		align-items: center;
 		height:100vh;
         margin-top: -10%;
+        margin-bottom:100px;
+        padding-bottom: 100px
 	}
 
     .container {
@@ -187,6 +191,7 @@
         justify-content: center;
         align-items: center;
         color: var(--mdc-theme-on-secondary, #fff);
+        padding-bottom: 100px
     }
 
     .content-typewriter {

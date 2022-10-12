@@ -22,7 +22,7 @@
 <div class="links">
     <a sveltekit:prefetch tabindex="0" aria-label="Link to information section" href="/info">Info.</a>
 	<a sveltekit:prefetch tabindex="0" aria-label="Link to How-to-apply for a grant" href="/apply">Apply.</a>
-    <a sveltekit:prefetch tabindex="0" aria-label="Link to grant applications" target="_blank" href="https://www.questbook.app/profile/?daoId=0x1&chainId=42220">Grants.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to grant applications" target="_blank" href="https://grants.prezenti.xyz">Grants.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to past Prezenti transactions" href="/tx">Transactions.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to about us section" href="/about-us">Who are we.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to the history of Prezenti" href="/history">History.</a>
