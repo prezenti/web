@@ -20,7 +20,7 @@
 <h1 aria-label="Transactions page" ></h1>
 
 <div class="about-us">
-    <!-- <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrk9hwQ8ac2FS7tdqFGStTwOorncBDDg8pWVedA5cwLmJQAn8hKB7HobQGMRhyCOe-LBeW_IxFsmCs/pubhtml?widget=true&amp;headers=false"></iframe> -->
+    <iframe  tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrk9hwQ8ac2FS7tdqFGStTwOorncBDDg8pWVedA5cwLmJQAn8hKB7HobQGMRhyCOe-LBeW_IxFsmCs/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
 </section>
@@ -31,6 +31,7 @@
 		justify-content: center;
 		align-items: center;
 		height:80vh;
+        margin-bottom: 100px;
 	}
 
     img {
