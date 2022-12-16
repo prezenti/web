@@ -20,12 +20,12 @@
 <h1 aria-label="Apply page" ></h1>
 
 <div class="apply">
-    <!-- <p>The application process will be open in the coming weeks!</p>
-    <p>If you would like to be notified once we open, please send a quick email to</p>
-    <p><a href="mailto:info@prezenti.xyz">info@Prezenti.xyz</a></p> -->
+    <p>We are closed for the holidays(16th Dec - 2nd Jan)!</p>
+    <p>Applications will be open again on the 3rd of January 2022.</p>
+    <p>We look forward to a prosperous 2023 with you all!</p>
     <!-- <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe> -->
-    <div id="ff-compose"></div>
-<script async defer src="https://formfacade.com/include/100113532735355078880/form/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/classic.js?div=ff-compose"></script>
+    <!-- <div id="ff-compose"></div>
+<script async defer src="https://formfacade.com/include/100113532735355078880/form/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/classic.js?div=ff-compose"></script> -->
 </div>
 
 </section>
