@@ -22,8 +22,7 @@
 <div class="links">
     <a sveltekit:prefetch tabindex="0" aria-label="Link to information section" href="/info">Info.</a>
 	<a sveltekit:prefetch tabindex="0" aria-label="Link to How-to-apply for a grant" href="/apply">Apply.</a>
-    <a sveltekit:prefetch tabindex="0" aria-label="Link to Cohort 1" target="_blank" href="/cohort-1">Cohort 1</a>
-    <a sveltekit:prefetch tabindex="0" aria-label="Link to Cohort 2" target="_blank" href="/cohort-2">Cohort 2</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to Cohort 1" target="_blank" href="/grants">Grants</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to past Prezenti transactions" href="/tx">Transactions.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to about us section" href="/about-us">Who are we.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to the history of Prezenti" href="/history">History.</a>

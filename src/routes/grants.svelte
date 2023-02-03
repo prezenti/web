@@ -20,12 +20,29 @@
     
     <div class="container">
         <div  class="content">
-            <h1>COHORT 1</h1>
+            <h1>GRANTS</h1>
         </div>
     </div>
 
         <div class="container-typewriter ">
             <div  class="content-typewriter">
+
+                <h2>2heavens</h2>
+
+                <p>They were born during the DeFi for The People hackathon.</p>
+                <p>They transform people's relationship with their wealth and inheritance through clarity of information about their crypto assets.</p>
+                <p>A wallet that will help educate people in the crypto world, and also keep the assets visible to the heirs. The grant will be used for this and to implement the features below:</p>
+                <ul>
+                    <li>TTOD (Token Transfer on death)</li>
+                    <li>Joint wallet with children to educate them on investments</li>
+                    <li>Crypto Risk Prediction- Asset Evolution Dashboard</li>
+                </ul>
+                <br/>
+                <li><a href="https://dapplooker.com/">Website</a></li>
+                <li><a href="https://twitter.com/dapplooker">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Alcancia</h2>
 
                 <p>Alcancia is a native mobile application. A wallet that lets users bridge their fiat Mexican and Dominican pesos into stablecoins (USDC and cUSD).</p>
@@ -35,11 +52,13 @@
 
                 <hr/>
 
-                <h2>Ostrom</h2>
+                <h2>DappLooker</h2>
 
-                <p>Ostrom is a protocol for community-based development and environmental regeneration. Communities and individuals can deposit their land or purchase Ostrom independently to be invested in a land asset. Ostrom enables a network of Community Land Trust’s to be formed and dynamic management of land.</p>
-                <li><a href="https://www.de-plan.xyz/">Website</a></li>
-                <li><a href="https://twitter.com/de_planDAO">Twitter</a></li>
+                <p>This project is to work closely with the Celo Dapps, integrate their contracts/subgraphs on our platform, and launch their analytics solutions. Dapps data and dashboards will be available for community analytics.</p>
+                <p>They are aiming to onboard 15 current and future Celo Dapps and five network tokens.</p>
+                <p>Most of these dapps need premium features such as export to CSV, embedding on their website, API with higher rate limits, user retention dashboards, and more.</p>
+                <li><a href="https://dapplooker.com/">Website</a></li>
+                <li><a href="https://twitter.com/dapplooker">Twitter</a></li>
 
                 <hr/>
 
@@ -52,10 +71,29 @@
 
                 <hr/>
 
-                <h2>Sargo</h2>
+                <h2>Green Digital Guardians</h2>
 
-                <p>Sargo is a decentralized protocol for swapping between stablecoins and local currencies from your phone. Over time they aim to integrate Sargo into a range of 3rd-party wallets, dapps and interfaces. Making it cheaper and easier to enter and exit the web-3 economy without the need for a token bridge, order book, fiat integration, or pooling mechanism</p>
-                <li><a href="https://twitter.com/sargo_io">Twitter</a></li>
+                <p>GDG purpose is to create the Largest Community on Planet Earth «Digital Guardians of The GreenArks» through new NFT technologies. Using Prezenti funding they aim to really kick things off the ground, including: design and trademark registration, building mark reputation and social media channels, create the non-profit organization, and design first NFT Collection.</p>
+                <li><a href="https://dgguardians.com">Website</a></li>
+                <li><a href="https://twitter.com/dg_guardians">Twitter</a></li>
+
+                <hr/>
+
+                <h2>ImpactMarket</h2>
+
+                <p>Impact Market is an open protocol that unlocks access to finance and unconditional basic income to almost 50K beneficiaries from ~30 developing countries living in 220+ very vulnerable communities.</p>
+                <p>The objective of this funding is to develop a combination of mechanisms to drive inflow of funds without the need for "traditional" donations, increasing the economic impact multiplier while enabling UBI to scale sustainability as a way to drive significant adoption and retention.</p>
+                <li><a href="https://www.impactmarket.com/">Website</a></li>
+                <li><a href="https://twitter.com/impactMarket_">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Inclusive blockchain for Africa (ib4a)</h2>
+
+                <p>Inclusive Blockchain for Africa (IB4A) is a project under Decentralized Future in Motion Lab Limited to educate technical and non-technical individuals on the possibilities of blockchain technology. They expose non-technical people to blockchain fundamentals and train technical individuals on how to build decentralized applications on the Celo blockchain. So far they have trained over thirty developers on building DApps on the Celo blockchain using solidity.</p>
+                <p>Their goal with Prezenti support is to train one thousand developers on building DApps on the Celo blockchain using available tools from Celo.</p>
+                <li><a href="https://learn.dfmlab.com/">Website</a></li>
+                <li><a href="https://twitter.com/dfmlabltd">Twitter</a></li>
 
                 <hr/>
 
@@ -68,11 +106,40 @@
 
                 <hr/>
 
+                <h2>Onboard</h2>
+
+                <p>Onboard is a community of builders who are gathered to create educational content to support ecosystems. By funding Onboard, they will aim to engage these builders to educate the world on building on Celo through product development and content creation.</p>
+                <li><a href="https://onboard.super.site/">Website</a></li>
+                <li><a href="https://twitter.com/jackietanyen">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Ostrom</h2>
+
+                <p>Ostrom is a protocol for community-based development and environmental regeneration. Communities and individuals can deposit their land or purchase Ostrom independently to be invested in a land asset. Ostrom enables a network of Community Land Trust’s to be formed and dynamic management of land.</p>
+                <li><a href="https://www.de-plan.xyz/">Website</a></li>
+                <li><a href="https://twitter.com/de_planDAO">Twitter</a></li>
+
+                <hr/>
+
                 <h2>TokPay</h2>
 
                 <p>Tokpay is an African Focused web 3 Neobank for high-yield USD savings and Fixed Deposit Accounts.</p>
                 <li><a href="http://tokpayapp.com/">Website</a></li>
                 <li><a href="https://twitter.com/tokpayapp">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Sargo</h2>
+
+                <p>Sargo is a decentralized protocol for swapping between stablecoins and local currencies from your phone. Over time they aim to integrate Sargo into a range of 3rd-party wallets, dapps and interfaces. Making it cheaper and easier to enter and exit the web-3 economy without the need for a token bridge, order book, fiat integration, or pooling mechanism</p>
+                <li><a href="https://twitter.com/sargo_io">Twitter</a></li>
+
+                <hr/>
+
+                <p>* 5 additional Grants currently pending contract signing </p>
+
+
 
 
         </div>
