@@ -87,6 +87,14 @@
 
                 <hr/>
 
+                <h2>Hack Culture: The Black History Month Edition</h2>
+
+                <p>#HackCulture is a hackathon series for devs building DeFi for the real world. Prezenti funding will pay for a case study after their next big event in February 2023 , New York, USA. The event will market Celo to a more diverse developer and user base that Celo isn’t currently reaching. They’ll use videos, audio, articles, newsletters, and social media accounts across YouTube, Twitter, TikTok, Linkedin, Instagram, and Clubhouse to maximize reach</p>
+                <li><a href="https://www.audacity.fund/">Website</a></li>
+                <li><a href="https://twitter.com/audacity_fund">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Hurupay</h2>
 
                 <p>Hurupay is a self custodial wallet that allows users to buy and hold cryptocurrencies such as stablecoins, while giving them ability to pay, remit and transact crypto securely. It is built on the Celo blockchain and allows unbanked to be banked through cUSD.</p>
