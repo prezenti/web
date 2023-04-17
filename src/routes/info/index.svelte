@@ -9,7 +9,7 @@
 		'What funding levels are available?': ["Prezenti will provide grants based on the amount needed to achieve the applicants objectives as well as the anticipated value added to the Celo ecosystem. We expect to fund a majority of projects in the 'Medium' range.", "\n", " Small: 10k cUSD or less" ,"Medium: between 10k-50k cUSD","Large: more than 50k cUSD","\n","Each applicant will create their own milestones and timeline based on their availability."],
         'What are the expected timelines?' : ["We expect the project and all milestones completed within 6 months."],
         'How does the Prezenti measure the success of the project?' : ["We expect the applicants to create their own milestones which will be used as evidence for payment release(s) for the duration of the grant. Stewards can request changes to milestones before acceptance of the application, and will have sole discretion to determine the completion of milestones after acceptance."],
-        'How is the payment handled?' : ["All grants are paid on-chain in cUSD via Celo Safe. All accepted applications will receive the first milestone payment upfront, and subsequent milestone payments by submitting evidence of completion (and having that evidence approved by a steward)."],
+        'How is the payment handled?' : ["All grants are paid on-chain in cUSD via Celo Safe. All accepted applications will receive milestone payments by submitting evidence of completion (and having that evidence approved by a steward)."],
         'How much equity will the Prezenti take?' : ["None! Prezenti is a non-profit organisation and provides grants without taking any equity. "],
         'I have a ongoing grant from CCF1 - what happens to me now?' : ["Nothing at all. Your grant will continue to be managed by the original steward that knows and understands your project. Patrick, Dee and Deepak are committed to fulfill their current obligations until your project ends."],
         'I have a ongoing grant from CCF1 - can I now apply for more/extra funds?' : ["You are always welcome to apply for more funds, but think carefully about the value add and actual need. This will need to be clearly articulated in your proposal and will be reviewed accordingly. We will discuss your ongoing grant with the CCF1 stewards who are still managing that contract application."],
@@ -46,18 +46,20 @@
                 <p>Prezenti is a grant fund for the Celo community.</p>
                 <p>Prezenti is the second phase of the Celo Community Fund that was created with an approved spend proposal from the on-chain <a href="https://docs.celo.org/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund">Community Fund</a>[<a href="https://explorer.celo.org/address/0xD533Ca259b330c7A88f74E000a3FaEa2d63B7972/tokens">explorer</a>]. Community members seeking grant funding can apply to Prezenti, which three community stewards manage. We provide grants of between 5000 - 30,000 $cUSD or equivalent $CELO amount. Alternatively, if you seek a higher amount, there is always the option of submitting your own <a href="https://docs.celo.org/celo-codebase/protocol/governance">governance</a> spend proposal to be voted on by CELO owners.
 
-                    Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fit into one of the following focus areas.</p>
+                    Prezenti only supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and those that meet the evaluation criteria listed below.</p>
                     <hr/>
                     <h1>Evaluation Criteria</h1>
                     <p>Here’s the style of evaluation criteria the stewards will be considering:</p>
+                    <div>
                     <ul>
                         <li>Does the team understand the problem space?</li>
                         <li>Is the team capable of delivery?</li>
-                        <li>Does the project proposal support or promote the values of Celo?</li>
+                        <li>Does the project proposal clearly support or promote the values of Celo?</li>
                         <li>Is the overall project proposal clear?</li>
                         <li>Are the milestones defined by the applicant specific, measurable, achievable, relevant, and time-bound?</li>
                         <li>Is the amount of funding requested reasonable?</li>
                       </ul>
+                    </div>
                       <p>When an application is unsuccessful we aim to give some limited feedback addressing some of the concerns above.</p>
                     <!-- <div>
                         <div ><img class="focus-area-image" src="Education_1.svg" alt="" /> <p><b>Education </b><i> is the why</i></p></div><p> Having informative data in various forms is the initial starting point for people to gain awareness. We can picture this as seeds that are thrown in a field to grow</p>
@@ -94,7 +96,7 @@
                 <p class="apply-text">Make sure you thoroughly complete the application form via <a href="/apply">apply</a> and clearly state how your project will contribute to the Celo ecosystem. Please review the Grant Application <a href="https://prezenti.notion.site/Terms-Conditions-89ba6399111c46f0b788eb0a67bfa05a">Terms and Conditions</a> before submitting.</p>
 
                 <h2>Step 3: Evaluation and approval</h2>
-                <p class="apply-text">The Stewards will review applications during the first week of each month, so be mindful of when you hit submit! If your proposal meets the program criteria, you will be invited to the next stage of the process.</p>
+                <p class="apply-text">The Stewards will review applications on a queue based system, on a rolling basis. If your proposal meets the program criteria, you will be invited to the next stage of the process.</p>
 
                 <h2>Step 4: Acceptance or denial notification</h2>
                 <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process. </p>
