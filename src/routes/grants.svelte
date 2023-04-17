@@ -71,6 +71,14 @@
 
                 <hr/>
 
+                <h2>Giveth</h2>
+
+                <p>The Giveth community intention is to support and reward the funding of public goods by creating open, transparent and free access to the revolutionary funding opportunities available within the Ethereum ecosystem. With funding from Prezenti they plan to add the ‘Donation Application’ to the Celo chain so that every project on Giveth can raise funds with Celo. On their DApp, 100% of donations go directly to the project and Donors to verified projects are rewarded with GIVbacks. </p>
+                <li><a href="https://giveth.io/">Website</a></li>
+                <li><a href="https://twitter.com/Givethio">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Green Digital Guardians</h2>
 
                 <p>GDG purpose is to create the Largest Community on Planet Earth «Digital Guardians of The GreenArks» through new NFT technologies. Using Prezenti funding they aim to really kick things off the ground, including: design and trademark registration, building mark reputation and social media channels, create the non-profit organization, and design first NFT Collection.</p>
