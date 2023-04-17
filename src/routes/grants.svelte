@@ -87,6 +87,14 @@
 
                 <hr/>
 
+                <h2>Hurupay</h2>
+
+                <p>Hurupay is a self custodial wallet that allows users to buy and hold cryptocurrencies such as stablecoins, while giving them ability to pay, remit and transact crypto securely. It is built on the Celo blockchain and allows unbanked to be banked through cUSD.</p>
+                <li><a href="https://www.hurupay.com/">Website</a></li>
+                <li><a href="https://twitter.com/HurupayApp">Twitter</a></li>
+
+                <hr/>
+
                 <h2>ImpactMarket</h2>
 
                 <p>Impact Market is an open protocol that unlocks access to finance and unconditional basic income to almost 50K beneficiaries from ~30 developing countries living in 220+ very vulnerable communities.</p>
