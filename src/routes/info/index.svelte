@@ -9,12 +9,12 @@
 		'What funding levels are available?': ["Prezenti will provide grants based on the amount needed to achieve the applicants objectives as well as the anticipated value added to the Celo ecosystem. We expect to fund a majority of projects in the 'Medium' range.", "\n", " Small: 10k cUSD or less" ,"Medium: between 10k-50k cUSD","Large: more than 50k cUSD","\n","Each applicant will create their own milestones and timeline based on their availability."],
         'What are the expected timelines?' : ["We expect the project and all milestones completed within 6 months."],
         'How does the Prezenti measure the success of the project?' : ["We expect the applicants to create their own milestones which will be used as evidence for payment release(s) for the duration of the grant. Stewards can request changes to milestones before acceptance of the application, and will have sole discretion to determine the completion of milestones after acceptance."],
-        'How is the payment handled?' : ["All grants are paid on-chain in cUSD via the grants software Questbook. All accepted applications will receive the first milestone payment upfront, and subsequent milestone payments by submitting evidence of completion (and having that evidence approved by a steward)."],
+        'How is the payment handled?' : ["All grants are paid on-chain in cUSD via Celo Safe. All accepted applications will receive the first milestone payment upfront, and subsequent milestone payments by submitting evidence of completion (and having that evidence approved by a steward)."],
         'How much equity will the Prezenti take?' : ["None! Prezenti is a non-profit organisation and provides grants without taking any equity. "],
         'I have a ongoing grant from CCF1 - what happens to me now?' : ["Nothing at all. Your grant will continue to be managed by the original steward that knows and understands your project. Patrick, Dee and Deepak are committed to fulfill their current obligations until your project ends."],
         'I have a ongoing grant from CCF1 - can I now apply for more/extra funds?' : ["You are always welcome to apply for more funds, but think carefully about the value add and actual need. This will need to be clearly articulated in your proposal and will be reviewed accordingly. We will discuss your ongoing grant with the CCF1 stewards who are still managing that contract application."],
         'I was turned down for funding by CCF1, can I re-apply?' : ["You are always welcome to apply for funds at any time and you have honed your project ideas. But again, but think carefully about the value add and actual need. This will need to be clearly articulated in your proposal and will be reviewed accordingly."],
-        'How will the funds/projects be tracked?' : ["All active grants will be managed on Questbook. All other transactions (including steward’s payments) for Prezenti are available here on Questbook"],
+        'How will the funds/projects be tracked?' : ["Milestones are managed internally. However you are are able to see completed milestones and payments on the transaction page of our website. You can also find information on grant applicants via our grants page."],
         'I want to be a subject matter expert and support Prezenti.' : ["Great! Please do get in touch with us and we can go from there (admin@prezenti.xyz). We will be looking for brilliant people to join us to help advise and galvanize people working on Celo globally. Please note there are limited funds for these roles."]
 	}
 </script>
@@ -93,7 +93,7 @@
                 <p class="apply-text">The Stewards will review applications during the first week of each month, so be mindful of when you hit submit! If your proposal meets the program criteria, you will be invited to the next stage of the process.</p>
 
                 <h2>Step 4: Acceptance or denial notification</h2>
-                <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process. Please note we will be using <a href="https://questbook.app/">Questbook</a> for releasing milestone payments. </p>
+                <p class="apply-text">All applicants will be notified whether their application has been accepted or denied. If your application is accepted, at this point, you will go through the agreement formation process. </p>
 
                 <h2>Step 5: Build and launch your project</h2>
                 <p class="apply-text">Get started with the tutorials, learn about the SDK and <a href="https://github.com/celo-org">explore</a> the codebase.</p>
