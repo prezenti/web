@@ -52,6 +52,14 @@
 
                 <hr/>
 
+                <h2>Community Health Project (TogetherCrew)</h2>
+
+                <p>This project contributes to Celo’s mission of building an open financial system that creates the conditions of prosperity for all by developing tools to measure and analyze community health and governance participation within Celo’s ecosystem. By defining a framework for evaluating community health, collecting data on community engagement, and analyzing it to identify patterns and trends, the project aims to provide insights that can be used to improve community engagement and participation, and ultimately help to create the conditions of prosperity for all. The involvement of research partners from MIT and UC Berkeley also demonstrate the commitment to applying scientific rigor in this process.</p>
+                <li><a href="https://discord.com/invite/Pk4GasVFr5">Discord</a></li>
+                <li><a href="https://twitter.com/RnDAO__">Twitter</a></li>
+
+                <hr/>
+
                 <h2>DappLooker</h2>
 
                 <p>This project is to work closely with the Celo Dapps, integrate their contracts/subgraphs on our platform, and launch their analytics solutions. Dapps data and dashboards will be available for community analytics.</p>
