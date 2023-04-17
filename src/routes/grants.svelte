@@ -114,6 +114,14 @@
 
                 <hr/>
 
+                <h2>Onset Carbon</h2>
+
+                <p>The Onset Carbon project aims to make offsetting carbon emissions easy and accessible for
+                    companies through the development of a blockchain-based API. The API will utilize carbon credits from the Verra registry, which will be bridged to the Celo blockchain via the Toucan protocol. This will provide a secure and robust platform for fast and low-cost transactions, while also allowing for enhanced verification and auditability of carbon credits. They also have a storefront which allows anyone to quickly and easily offset their emissions with a credit card using blockchain-based credits, which they built as a proof of concept.</p>
+                <li><a href="https://www.onsetcarbon.com/">Website</a></li>
+
+                <hr/>
+
                 <h2>Ostrom</h2>
 
                 <p>Ostrom is a protocol for community-based development and environmental regeneration. Communities and individuals can deposit their land or purchase Ostrom independently to be invested in a land asset. Ostrom enables a network of Community Land Trust’s to be formed and dynamic management of land.</p>
