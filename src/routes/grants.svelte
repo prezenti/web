@@ -52,6 +52,14 @@
 
                 <hr/>
 
+                <h2>Community Health Project (TogetherCrew)</h2>
+
+                <p>This project contributes to Celo’s mission of building an open financial system that creates the conditions of prosperity for all by developing tools to measure and analyze community health and governance participation within Celo’s ecosystem. By defining a framework for evaluating community health, collecting data on community engagement, and analyzing it to identify patterns and trends, the project aims to provide insights that can be used to improve community engagement and participation, and ultimately help to create the conditions of prosperity for all. The involvement of research partners from MIT and UC Berkeley also demonstrate the commitment to applying scientific rigor in this process.</p>
+                <li><a href="https://discord.com/invite/Pk4GasVFr5">Discord</a></li>
+                <li><a href="https://twitter.com/RnDAO__">Twitter</a></li>
+
+                <hr/>
+
                 <h2>DappLooker</h2>
 
                 <p>This project is to work closely with the Celo Dapps, integrate their contracts/subgraphs on our platform, and launch their analytics solutions. Dapps data and dashboards will be available for community analytics.</p>
@@ -71,11 +79,35 @@
 
                 <hr/>
 
+                <h2>Giveth</h2>
+
+                <p>The Giveth community intention is to support and reward the funding of public goods by creating open, transparent and free access to the revolutionary funding opportunities available within the Ethereum ecosystem. With funding from Prezenti they plan to add the ‘Donation Application’ to the Celo chain so that every project on Giveth can raise funds with Celo. On their DApp, 100% of donations go directly to the project and Donors to verified projects are rewarded with GIVbacks. </p>
+                <li><a href="https://giveth.io/">Website</a></li>
+                <li><a href="https://twitter.com/Givethio">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Green Digital Guardians</h2>
 
                 <p>GDG purpose is to create the Largest Community on Planet Earth «Digital Guardians of The GreenArks» through new NFT technologies. Using Prezenti funding they aim to really kick things off the ground, including: design and trademark registration, building mark reputation and social media channels, create the non-profit organization, and design first NFT Collection.</p>
                 <li><a href="https://dgguardians.com">Website</a></li>
                 <li><a href="https://twitter.com/dg_guardians">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Hack Culture: The Black History Month Edition</h2>
+
+                <p>#HackCulture is a hackathon series for devs building DeFi for the real world. Prezenti funding will pay for a case study after their next big event in February 2023 , New York, USA. The event will market Celo to a more diverse developer and user base that Celo isn’t currently reaching. They’ll use videos, audio, articles, newsletters, and social media accounts across YouTube, Twitter, TikTok, Linkedin, Instagram, and Clubhouse to maximize reach</p>
+                <li><a href="https://www.audacity.fund/">Website</a></li>
+                <li><a href="https://twitter.com/audacity_fund">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Hurupay</h2>
+
+                <p>Hurupay is a self custodial wallet that allows users to buy and hold cryptocurrencies such as stablecoins, while giving them ability to pay, remit and transact crypto securely. It is built on the Celo blockchain and allows unbanked to be banked through cUSD.</p>
+                <li><a href="https://www.hurupay.com/">Website</a></li>
+                <li><a href="https://twitter.com/HurupayApp">Twitter</a></li>
 
                 <hr/>
 
@@ -114,6 +146,14 @@
 
                 <hr/>
 
+                <h2>Onset Carbon</h2>
+
+                <p>The Onset Carbon project aims to make offsetting carbon emissions easy and accessible for
+                    companies through the development of a blockchain-based API. The API will utilize carbon credits from the Verra registry, which will be bridged to the Celo blockchain via the Toucan protocol. This will provide a secure and robust platform for fast and low-cost transactions, while also allowing for enhanced verification and auditability of carbon credits. They also have a storefront which allows anyone to quickly and easily offset their emissions with a credit card using blockchain-based credits, which they built as a proof of concept.</p>
+                <li><a href="https://www.onsetcarbon.com/">Website</a></li>
+
+                <hr/>
+
                 <h2>Ostrom</h2>
 
                 <p>Ostrom is a protocol for community-based development and environmental regeneration. Communities and individuals can deposit their land or purchase Ostrom independently to be invested in a land asset. Ostrom enables a network of Community Land Trust’s to be formed and dynamic management of land.</p>
@@ -137,8 +177,12 @@
 
                 <hr/>
 
-                <p>* 5 additional Grants currently pending contract signing </p>
+                <h2>Quidli</h2>
 
+                <p>Quidli is a token rewards tool for crypto organisations to keep their communities engaged natively in Slack and Discord. Their app enables you to recognise your active community members for their contributions, such as social media participation. They are currently used by community teams in ConsenSys, NEAR, iExec, Flare Network, Concordium, CUDOS and MAP Protocol. WIth funding from Prezenti they will be adding cUSD, cEUR and cREAL as an option to share rewards in the Celo discord. That’s right, you will then be able to tip or support fellow community members in Celo stables!</p>
+                <li><a href="https://twitter.com/quidliprotocol">Twitter</a></li>
+                <li><a href="https://quid.li/">Website</a></li>
+                <hr/>
 
 
 
