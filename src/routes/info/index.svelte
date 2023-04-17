@@ -48,13 +48,23 @@
 
                     Prezenti supports projects that share <a href="https://celo.org/about">Celo’s Mission</a> and broadly fit into one of the following focus areas.</p>
                     <hr/>
-                    <h1>Focus Areas</h1>
-                    <div>
+                    <h1>Evaluation Criteria</h1>
+                    <p>Here’s the style of evaluation criteria the stewards will be considering:</p>
+                    <ul>
+                        <li>Does the team understand the problem space?</li>
+                        <li>Is the team capable of delivery?</li>
+                        <li>Does the project proposal support or promote the values of Celo?</li>
+                        <li>Is the overall project proposal clear?</li>
+                        <li>Are the milestones defined by the applicant specific, measurable, achievable, relevant, and time-bound?</li>
+                        <li>Is the amount of funding requested reasonable?</li>
+                      </ul>
+                      <p>When an application is unsuccessful we aim to give some limited feedback addressing some of the concerns above.</p>
+                    <!-- <div>
                         <div ><img class="focus-area-image" src="Education_1.svg" alt="" /> <p><b>Education </b><i> is the why</i></p></div><p> Having informative data in various forms is the initial starting point for people to gain awareness. We can picture this as seeds that are thrown in a field to grow</p>
                         <div><img class="focus-area-image" src="Research_1.svg" alt="" /> <p><b>Research </b><i> is the growth</i></p></div><p> Once we have the why, we can dive deeper, build upon our initial interest and build conviction to an idea. We can picture this as the water and nutrients that help the seed to grow strong and become a plant </p>
                         <div><img class="focus-area-image" src="Community Tools_1.svg" alt="" /> <p><b>Commmunity Tools </b><i> are the How</i></p></div><p> Once we have a belief and a conviction, we need the appropriate tools to be able to execute these ideas. We can think of this as the environment. We need this to be ideal to grow strong.</p>
                         <div><img class="focus-area-image" src="Others_1.svg" alt="" /> <p><b>Other </b><i> captures serendipity</i></p></div><p>While the other items are part of the growth story. We leave room for flexibility. </p>
-                    </div>
+                    </div> -->
                     <hr/>
                     <h1>Celo Grant Ecosystem</h1>
                   <p> We work closely with other granting entities like <a href="https://celo.org/experience/grants#introduction">Celo Foundation Grants</a> and the  <a href="https://climatecollective.org">Climate Collective</a> to ensure we capture services that may not fit with the other programs. Although closely aligned, we are independent of the Celo foundation.</p>
@@ -77,14 +87,8 @@
                 <br>
                 <br>
                 <br>
-                <h2>Step 1: Choose a category</h2>
-                <p class="apply-text"> If your project fits into one of these 4 focus areas and aligns with the Celo mission, you’re a candidate for a Prezenti grant. Join Discord and reach out:</p>
-                    <ul>
-                        <li>Education</li>
-                        <li>Research</li>
-                        <li>Community Tools</li>
-                        <li>Other</li>
-                    </ul>    
+                <h2>Step 1: Check your project aligns with our evalauation criteria</h2>
+                <p class="apply-text"> If your project matches our evalauation criteria above, you’re a candidate for a Prezenti grant.</p>
 
                 <h2>Step 2: Submit your grant application</h2>
                 <p class="apply-text">Make sure you thoroughly complete the application form via <a href="/apply">apply</a> and clearly state how your project will contribute to the Celo ecosystem. Please review the Grant Application <a href="https://prezenti.notion.site/Terms-Conditions-89ba6399111c46f0b788eb0a67bfa05a">Terms and Conditions</a> before submitting.</p>
@@ -124,6 +128,10 @@
 		height:100vh;
         margin-top: -10%;
 	}
+
+    ul li {
+        font-family:'Roboto', sans-serif 
+    }
 
     .history-typewriter {
 		display: flex;
