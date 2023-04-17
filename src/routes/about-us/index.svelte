@@ -62,7 +62,7 @@
                     <div class="content">
                         {#if !mobile}
                             <h2><b>Maya</b></h2>
-                            <p><b>Background:</b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa managing funds from a variety of donors.  For 18 months I have been the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs</p>
+                            <p><b>Background:</b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 8 years I worked for Save the Children supporting end-to-end grant management in East Africa, managing funds from a variety of donors and for 1.5 years I was the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs.</p>
                             <p><b>Current Work : </b>Contributing to a possible new DAO and this!</p>
                         {:else}
                         <img src={image_maya} alt="Maya's profile picture" />
@@ -77,7 +77,7 @@
                             <img src={image_maya} alt="Maya's profile picture" />
                         {:else}
                             <h2><b>Maya</b></h2>
-                            <p><b>Background: </b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 7 years I worked for Save the Children supporting end-to-end grant management in East Africa managing funds from a variety of donors.  For 18 months I have been the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs</p>
+                            <p><b>Background: </b> I am passionate about making a positive impact in the world we live in. I spent 5 years running a low carbon technology grant programme, disbursing over £50m. For 8 years I worked for Save the Children supporting end-to-end grant management in East Africa, managing funds from a variety of donors and for 1.5 years I was the Chief Operating Officer for a UK based fintech building on Celo, helping them deliver cash transfer programs to help vulnerable users use Celo to meet their basic household needs.</p>
                             <p><b>Current Work: </b> Contributing to a possible new DAO and this!</p>
                         {/if}
                     </div>
@@ -97,8 +97,8 @@
                 <div class="container">
                     <div class="content">
                         <h2><b>Wade</b></h2>
-                        <p><b>Background: </b> I operate <a href="https://thepassivetrust.com">The Passive Trust</a>, an infrastructure provider for blockchain networks. The Passive Trust runs a validator group on Celo since Genesis. The Passive Trust has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
-                        <p><b>Current Work: </b> Operates The Passive Trust. I also contribute to multiple DAOs and open source projects.</p>
+                        <p><b>Background: </b> I operate <a href="https://thepassivetrust.com">TPT</a>, an infrastructure provider for blockchain networks. TPT runs a validator group on Celo since Genesis. TPT has distributed a large percentage of funds received from being an operator on Celo to support projects built on Celo. This includes Moola, Ubeswap, ImpactMarket, Poof Cash and Resource Network. I was initially part of the Mentor/mentee program in The Great Celo Bake Off, my motivation for becoming a steward is to help potential entrepreneurs and engineers to be able to get funding through grants and be given an opportunity like I was.</p>
+                        <p><b>Current Work: </b> Operates TPT. I also contribute to multiple DAOs and open source projects.</p>
                     </div>
                 </div>
             </Col>
