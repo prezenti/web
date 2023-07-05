@@ -35,12 +35,18 @@
 			PREZENTI
 		</h1>
 		<p>Where thinkers and trailblazers come for grants to make their dreams a reality on the Celo network</p>
+		<p class="enter-text">Click to Enter</p>
 	</a>
 
 	</section>
 </OnMount>
 
 <style>
+
+	.enter-text {
+		padding-top:2%;
+		font-size: 1rem;
+	}
 
 	section {
 		display: flex;
