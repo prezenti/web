@@ -25,8 +25,7 @@
     <!-- <p>We look forward to a prosperous 2023 with you all!</p> -->
     <!-- <iframe tabindex="-1" aria-label="Google sheet with transaction details" role="presentation" width="100%" height="100%" title="Prezenti transactions" src="https://docs.google.com/forms/d/e/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/viewform?usp=sf_link">Loading....</iframe> -->
     <div id="ff-compose"></div>
-    <script async defer src="https://formfacade.com/include/100113532735355078880/form/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/classic.js?div=ff-compose"></script></div>
-
+    <script async defer src="https://formfacade.com/include/100113532735355078880/form/1FAIpQLSf7h-hYDZsgJ6ikmzAsGUSp438zGnDKx363ryUsZ-mWNTqwdQ/classic.js?div=ff-compose"></script>
 </section>
 
 <style>
