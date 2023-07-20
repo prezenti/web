@@ -22,11 +22,12 @@
 <div class="links">
     <a sveltekit:prefetch tabindex="0" aria-label="Link to information section" href="/info">Info.</a>
 	<a sveltekit:prefetch tabindex="0" aria-label="Link to How-to-apply for a grant" href="/apply">Apply.</a>
-    <a sveltekit:prefetch tabindex="0" aria-label="Link to Cohort 1" target="_blank" href="/grants">Grants</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Link to Grants" target="_blank" href="/grants">Grants</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to past Prezenti transactions" href="/tx">Transactions.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to about us section" href="/about-us">Who are we.</a>
     <a sveltekit:prefetch tabindex="0" aria-label="Link to the history of Prezenti" href="/history">History.</a>
-    <a sveltekit:prefetch tabindex="0" aria-label="Link to the history of Prezenti" href="mailto:admin@prezenti.xyz">Contact.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Prezenti Brand Guidlines" href="https://prezenti-brand-guidelines.tiiny.site/">Brand Guide.</a>
+    <a sveltekit:prefetch tabindex="0" aria-label="Contact Us" href="mailto:admin@prezenti.xyz">Contact.</a>
 
 </div>
 
