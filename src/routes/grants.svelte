@@ -76,6 +76,15 @@
 
                 <hr/>
 
+                <h2>Citizen Wallet</h2>
+
+                <p>A wallet for non crypto people, aka the metamask for the rest of us.
+                   Objective for this funding is to enable any community to offer their members a wallet dedicated to their token on the Celo blockchain. Citizen Wallet aims to deliver a progressive web app and a native iOS and Android app that people can use to receive  any ERC20 tokens on CELO using account abstraction so that a 3rd party (typically the token issuer)  can subsidize the gas fees and the end user doesn’t need to worry about it.</p>
+                <li><a href="https://citizenwallet.xyz/">Website</a></li>
+                <li><a href="https://twitter.com/citizenwallet">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Clixpesa</h2>
 
                 <p>Clixpesa is an effort to build a borderless, customer-centric, all in one platform to serve as a trusted companion to manage and grow money while giving back control to users. By simplifying web3 for the less tech and financial savvy, they intend to increase utilization of financial products across sub-Saharan Africa. The “take it or leave it” approach to financial products and pricing has locked out many, especially in the informal sector, from enjoying the benefits of current financial trends. Many in the  informal sector underutilize these products due to high learning curves, costs and the commitment  involved. While making payments is easy, participating in mediums that expose them to cheap lines of  credit and saving pools still has high friction.
