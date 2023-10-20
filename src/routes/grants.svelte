@@ -256,6 +256,14 @@
 
                 <hr/>
 
+                <h2>ReFi Kenya Event</h2>
+
+                <p>ReFi Kenya is a three-day event which is taking place this September in Nairobi, Kenya. The event will draw together the youth, corporations, land stewards and technology developers to celebrate the burgeoning ReFi movement in Kenya. ReFi kenya 2023 will be hosted by Shamba network. This is the 2nd event that the team have produced, the first being in 2022 and Celo was also a sponsor.</p>
+                <li><a href="https://shamba.network/">Website</a></li>
+                <li><a href="https://twitter.com/ReFiKenya">Twitter</a></li>
+
+                <hr/>
+
                 <h2>ReFi Paramaribo</h2>
 
                 <p>They are seeking this grant to fund the launch of ReFi Paramaribo, a regenerative finance community that aims to increase financial literacy and access to funding for underrepresented groups and individuals in Paramaribo, Suriname. The proposal for this project includes establishing an online presence, hosting educational and networking events, and launching seed funding and mentorship programs.</p>
