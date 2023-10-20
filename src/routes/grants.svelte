@@ -210,6 +210,14 @@
 
                 <hr/>
 
+                <h2>Wasset</h2>
+
+                <p>Wasset's mission of creating a waste-powered circular economy that ensures sustainable collection, recovery, and recycling of waste aligns with Celos mission of creating a financial system that creates prosperity for all while contributing positively to the well-being of our planet. Prezenti is supporting a pilot program, which is focused on encouraging sorting, collection, and recycling of waste, to test the community response to the ImpactUs and UBHI programs.</p>
+                <li><a href="https://wasset.io/">Website</a></li>
+                <li><a href="https://twitter.com/wassetltd">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Quidli</h2>
 
                 <p>Quidli is a token rewards tool for crypto organisations to keep their communities engaged natively in Slack and Discord. Their app enables you to recognise your active community members for their contributions, such as social media participation. They are currently used by community teams in ConsenSys, NEAR, iExec, Flare Network, Concordium, CUDOS and MAP Protocol. WIth funding from Prezenti they will be adding cUSD, cEUR and cREAL as an option to share rewards in the Celo discord. That’s right, you will then be able to tip or support fellow community members in Celo stables!</p>
