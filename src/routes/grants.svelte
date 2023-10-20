@@ -178,6 +178,14 @@
 
                 <hr/>
 
+                <h2>ReFi Hub</h2>
+
+                <p>In line with Celo’s mission, they aim to create a more open, equitable system of global finance, which creates prosperity for all, including people and the planet. ReeFi Hub will connect real world economies with the world of DeFi. This decentralized model will allow every day people to provide liquidity to a typically inaccessible and inequitable market. In doing so, users will be able to create stable and consistent returns on their investments, regardless of where they are in the world, or how much money they have to invest. ReeFi Hub also tackles one of the most pressing issues of our time; climate change. By giving financial power and a community platform to every day people around the world, ReeFi Hub will ensure that people do not need to make the choice of whether to prioritize their personal financial success or contributing to climate solutions.</p>
+                <li><a href="https://www.coraltribe.io/">Website</a></li>
+                <li><a href="https://twitter.com/CoralTribeNFT">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Sargo</h2>
 
                 <p>Sargo is a decentralized protocol for swapping between stablecoins and local currencies from your phone. Over time they aim to integrate Sargo into a range of 3rd-party wallets, dapps and interfaces. Making it cheaper and easier to enter and exit the web-3 economy without the need for a token bridge, order book, fiat integration, or pooling mechanism</p>
