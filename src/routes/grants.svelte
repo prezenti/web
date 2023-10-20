@@ -231,14 +231,6 @@
 
                 <hr/>
 
-                <h2>TokPay</h2>
-
-                <p>Tokpay is an African Focused web 3 Neobank for high-yield USD savings and Fixed Deposit Accounts.</p>
-                <li><a href="http://tokpayapp.com/">Website</a></li>
-                <li><a href="https://twitter.com/tokpayapp">Twitter</a></li>
-
-                <hr/>
-
                 <h2>Rebiocca</h2>
 
                 <p>Rebioca aims to design the products of the future by recycling organic wastes with low carbon emissions, water use, and energy use. Rebioca is helping our planet with the organic waste process as we have been working with “nature’s gift” black soldier flies. We process organic waste in a much green way and produce protein-rich end products such as fertilizer, BSF oil, and many more while reducing x0.4 carbon emissions per tonne compared to traditional methodologies.</p>
@@ -285,6 +277,25 @@
                 <p>Tali is an intelligent, AI-driven Discord bot designed to enhance developer relations, support, and community management. Tali instantly answers developer questions by analyzing developer docs, technical documentation, and other data sources for seamless knowledge integration for technical support.</p>
                 <li><a href="https://www.trytali.com/">Website</a></li>
                 <li><a href="https://twitter.com/trytaliAI">Twitter</a></li>
+
+                <hr/>
+
+                <h2>Teleport DAO Bridge</h2>
+
+                <p>Teleport Bridge is a light client bridge between Celo and Ethereum, It is a part of Teleportdao which is a trustless interoperability protocol. So far, they have built a bridge between Bitcoin and EVM chains, they are now live on Polygon. They will soon launch their light client  bridge between Bitcoin and Ethereum. As a team, they have built applications on top of their live bridge:</p>
+                    <li><a href="https://teleswap.xyz/">Teleswap</a>: which is a Dex for Bitcoin and tokens on polygon</li>
+                    <li><a href="https://teleordinal.xyz">TeleOrdinal</a>: which is a decentralized marketplace for Ordinals</li>
+                    <p>Other links</p>
+                    <li><a href="https://www.teleportdao.xyz/">Website</a></li>
+                    <li><a href="https://twitter.com/Teleport_DAO">Twitter</a></li>
+
+                <hr/>
+
+                <h2>TokPay</h2>
+
+                <p>Tokpay is an African Focused web 3 Neobank for high-yield USD savings and Fixed Deposit Accounts.</p>
+                <li><a href="http://tokpayapp.com/">Website</a></li>
+                <li><a href="https://twitter.com/tokpayapp">Twitter</a></li>
 
                 <hr/>
 
