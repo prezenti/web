@@ -221,6 +221,16 @@
 
                 <hr/>
 
+                <h2>Procision</h2>
+
+                <p>Procision aims to solve the problem of the increasing number of payment options available to consumers, including multiple currencies, loyalty points, and digital tokens. Their solution provides retailers with a single platform to manage pricing and transactions for all types of payments and redemptions, reducing the need to navigate multiple silos to set prices across the board.
+                    In addition, they help address climate remediation by enabling consumers to retire carbon pollution through everyday retail purchases or loyalty redemptions. Their platform also provides an auditable way for retail businesses to contribute to climate remediation efforts.
+                    They plan to integrate Celo tokens into our product to enable customers to pay for products with Celo or a white-labeled Celo coin. Customers will also receive Celo coins as rewards for their purchases, thereby promoting the use of Celo beyond its climate benefits.</p>
+                <li><a href="https://procision.co/">Website</a></li>
+                <li><a href="https://twitter.com/procision_co">Twitter</a></li>
+
+                <hr/>
+
                 <h2>TokPay</h2>
 
                 <p>Tokpay is an African Focused web 3 Neobank for high-yield USD savings and Fixed Deposit Accounts.</p>
@@ -242,6 +252,15 @@
                 <p>In line with Celo’s mission, they aim to create a more open, equitable system of global finance, which creates prosperity for all, including people and the planet. ReeFi Hub will connect real world economies with the world of DeFi. This decentralized model will allow every day people to provide liquidity to a typically inaccessible and inequitable market. In doing so, users will be able to create stable and consistent returns on their investments, regardless of where they are in the world, or how much money they have to invest. ReeFi Hub also tackles one of the most pressing issues of our time; climate change. By giving financial power and a community platform to every day people around the world, ReeFi Hub will ensure that people do not need to make the choice of whether to prioritize their personal financial success or contributing to climate solutions.</p>
                 <li><a href="https://www.coraltribe.io/">Website</a></li>
                 <li><a href="https://twitter.com/CoralTribeNFT">Twitter</a></li>
+
+                <hr/>
+
+                <h2>ReFi Medellín</h2>
+
+                <p>They are a movement dedicated to creating a more sustainable and equitable future in Medellín.
+                   Their goal is to foster community discussions around regenerative-oriented-innovations (ROIs) enabled by Web3 and empower the city's youth to address some of its most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and the lack of access to basic resources such as energy, water, sanitation, housing, and education.</p>
+                <li><a href="https://linktr.ee/refimedellin">Website</a></li>
+                <li><a href="https://twitter.com/ReFiMedellin">Twitter</a></li>
 
                 <hr/>
 
