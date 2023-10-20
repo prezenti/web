@@ -129,6 +129,14 @@
 
                 <hr/>
 
+                <h2>Inspira Valley</h2>
+
+                <p>InspiraValley plans to develop a special edition dedicated to product management in Celo Blockchain, demonstrating the ReFi Product Model Canvas framework with use cases, innovative Brazilian projects in Celo, podcast with Brazilian entrepreneurs on Celo, videos on blockchain product management and presenting global solutions developed in Celo Blockchain.</p>
+                <li><a href="https://www.inspiravalley.com/">Website</a></li>
+                <li><a href="https://twitter.com/inspiravalley">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Love Crypto</h2>
 
                 <p>Love Crypto is a Proof of Concept for interoperability on the Brazilian Real Digital Ledger into a full-fledged product to allow users to purchase Real World Assets registered in the Real Brazilian Digital Ledger.</p>
