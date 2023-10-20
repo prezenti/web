@@ -66,6 +66,16 @@
 
                 <hr/>
 
+                <h2>Clixpesa</h2>
+
+                <p>Clixpesa is an effort to build a borderless, customer-centric, all in one platform to serve as a trusted companion to manage and grow money while giving back control to users. By simplifying web3 for the less tech and financial savvy, they intend to increase utilization of financial products across sub-Saharan Africa. The “take it or leave it” approach to financial products and pricing has locked out many, especially in the informal sector, from enjoying the benefits of current financial trends. Many in the  informal sector underutilize these products due to high learning curves, costs and the commitment  involved. While making payments is easy, participating in mediums that expose them to cheap lines of  credit and saving pools still has high friction.
+                    They know that making and receiving payments is not enough to build financial resilience and inclusion.  Designing services that improve payments to make them safe, cheap, and fast while enabling alternative lines of credit, debt management and connecting individuals into saving pools will highly improve involvement.
+                    </p>
+                <li><a href="https://clixpesa.com/">Website</a></li>
+                <li><a href="https://twitter.com/clixpesa">Twitter</a></li>
+
+                <hr/>
+
                 <h2>BitGifty</h2>
 
                 <p>Bitgifty is an innovative crypto gift card platform that enables users to send and receive crypto as gift cards via email. Users can easily create and redeem crypto gift cards in just a few clicks, sending cUSD, Celo, Bitcoin, Ethereum, USDT, and other coins as gift cards.
