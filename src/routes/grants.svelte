@@ -58,6 +58,16 @@
 
                 <hr/>
 
+                <h2>BitGifty</h2>
+
+                <p>Bitgifty is an innovative crypto gift card platform that enables users to send and receive crypto as gift cards via email. Users can easily create and redeem crypto gift cards in just a few clicks, sending cUSD, Celo, Bitcoin, Ethereum, USDT, and other coins as gift cards.
+                    With BitGifty, users can receive crypto directly in their email without worrying about wallet addresses. Not only can users receive crypto gifts seamlessly, but they can also either convert the gifts to Naira directly to their bank account or spend the gift right on the platform.
+                    BitGifty provides its users with the option to pay for their daily utilities using their crypto gifts, such as data, airtime, cable TV, and electricity bills.</p>
+                <li><a href="https://bitgifty.com/">Website</a></li>
+                <li><a href="https://twitter.com/BitGifty">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Community Health Project (TogetherCrew)</h2>
 
                 <p>This project contributes to Celo’s mission of building an open financial system that creates the conditions of prosperity for all by developing tools to measure and analyze community health and governance participation within Celo’s ecosystem. By defining a framework for evaluating community health, collecting data on community engagement, and analyzing it to identify patterns and trends, the project aims to provide insights that can be used to improve community engagement and participation, and ultimately help to create the conditions of prosperity for all. The involvement of research partners from MIT and UC Berkeley also demonstrate the commitment to applying scientific rigor in this process.</p>
@@ -76,13 +86,12 @@
 
                 <hr/>
 
-                <h2>BitGifty</h2>
 
-                <p>Bitgifty is an innovative crypto gift card platform that enables users to send and receive crypto as gift cards via email. Users can easily create and redeem crypto gift cards in just a few clicks, sending cUSD, Celo, Bitcoin, Ethereum, USDT, and other coins as gift cards.
-                    With BitGifty, users can receive crypto directly in their email without worrying about wallet addresses. Not only can users receive crypto gifts seamlessly, but they can also either convert the gifts to Naira directly to their bank account or spend the gift right on the platform.
-                    BitGifty provides its users with the option to pay for their daily utilities using their crypto gifts, such as data, airtime, cable TV, and electricity bills.</p>
-                <li><a href="https://bitgifty.com/">Website</a></li>
-                <li><a href="https://twitter.com/BitGifty">Twitter</a></li>
+                <h2>CreDA</h2>
+
+                <p>CreDA (Credit DeFi Alliance) is the first trusted decentralized credit rating service that models on-chain and traditional data linked to a secure personal decentralized identity to create a universal credibility score for Web3. This grant will enable the deployment of CreDA Credit Scores and Elastos DID solution on Celo.</p>
+                <li><a href="https://www1.creda.app/home">Website</a></li>
+                <li><a href="https://twitter.com/CreDAfinance">Twitter</a></li>
 
                 <hr/>
 
