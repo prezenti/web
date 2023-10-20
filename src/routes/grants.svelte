@@ -186,6 +186,14 @@
 
                 <hr/>
 
+                <h2>ReFi Paramaribo</h2>
+
+                <p>They are seeking this grant to fund the launch of ReFi Paramaribo, a regenerative finance community that aims to increase financial literacy and access to funding for underrepresented groups and individuals in Paramaribo, Suriname. The proposal for this project includes establishing an online presence, hosting educational and networking events, and launching seed funding and mentorship programs.</p>
+                <li><a href="https://www.innovatorsbuzz.org/">Website</a></li>
+                <li><a href="https://www.twitter.com/ReFiParamaribo">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Sargo</h2>
 
                 <p>Sargo is a decentralized protocol for swapping between stablecoins and local currencies from your phone. Over time they aim to integrate Sargo into a range of 3rd-party wallets, dapps and interfaces. Making it cheaper and easier to enter and exit the web-3 economy without the need for a token bridge, order book, fiat integration, or pooling mechanism</p>
