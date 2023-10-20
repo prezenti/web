@@ -203,6 +203,14 @@
 
                 <hr/>
 
+                <h2>Rebiocca</h2>
+
+                <p>Rebioca aims to design the products of the future by recycling organic wastes with low carbon emissions, water use, and energy use. Rebioca is helping our planet with the organic waste process as we have been working with “nature’s gift” black soldier flies. We process organic waste in a much green way and produce protein-rich end products such as fertilizer, BSF oil, and many more while reducing x0.4 carbon emissions per tonne compared to traditional methodologies.</p>
+                <li><a href="https://www.rebioca.com/">Website</a></li>
+                <li><a href="https://twitter.com/rebioca">Twitter</a></li>
+
+                <hr/>
+
                 <h2>ReFi Hub</h2>
 
                 <p>In line with Celo’s mission, they aim to create a more open, equitable system of global finance, which creates prosperity for all, including people and the planet. ReeFi Hub will connect real world economies with the world of DeFi. This decentralized model will allow every day people to provide liquidity to a typically inaccessible and inequitable market. In doing so, users will be able to create stable and consistent returns on their investments, regardless of where they are in the world, or how much money they have to invest. ReeFi Hub also tackles one of the most pressing issues of our time; climate change. By giving financial power and a community platform to every day people around the world, ReeFi Hub will ensure that people do not need to make the choice of whether to prioritize their personal financial success or contributing to climate solutions.</p>
