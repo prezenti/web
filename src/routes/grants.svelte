@@ -104,6 +104,14 @@
 
                 <hr/>
 
+                <h2>Gigawatt</h2>
+
+                <p>Gigawatt is an asset backed debt-financing protocol for the renewable energy sector that will supercharge the green-energy transition by originating investment-grade renewable energy sources as RWAs on the Celo blockchain.</p>
+                <li><a href="https://gigawa.tt/">Website</a></li>
+                <li><a href="https://twitter.com/0xGigawatt">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Hack Culture: The Black History Month Edition</h2>
 
                 <p>#HackCulture is a hackathon series for devs building DeFi for the real world. Prezenti funding will pay for a case study after their next big event in February 2023 , New York, USA. The event will market Celo to a more diverse developer and user base that Celo isn’t currently reaching. They’ll use videos, audio, articles, newsletters, and social media accounts across YouTube, Twitter, TikTok, Linkedin, Instagram, and Clubhouse to maximize reach</p>
