@@ -172,6 +172,15 @@
 
                 <hr/>
 
+
+                <h2>Institutional Carbon Wallet (Kryha)</h2>
+
+                <p>Kryha aims to build a corporate carbon wallet via Account Abstraction (EIP-4337) using the Safe Account Abstraction SDK. More specifically, the Safe Auth Kit and Safe Protocol Kit. The focus will be implementing account abstraction to build a non-custodial wallet that abstracts most of the (currently) poor web3 experience away from the user. They plan to do this by implementing an SSO functionality by which the user can log in, and recover its credentials keys via a well-known path, the corporate SSO. The account recovery feature will allow users to recover their wallet access rights with a new password that they’ve set via their SSO provider. Via this grant they hope to build an Admin functionality, allowing the institution to add and remove delegated wallet users. User accounts can be simple email addresses used for SSO.</p>
+                <li><a href="https://kryha.io/">Website</a></li>
+                <li><a href="https://twitter.com/kryha_io">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Into the Verse</h2>
 
                 <p>IntotheVerse is developing an on-chain mobile game on Celo Blockchain where players can engage in building their own world, manage and nurture it, meet with other players and perform activities that we perform in the real world (farming, fishing, banking, recreation, conservation) from within the game, in a social and educational gameplay focused on onboarding people to web3 and simplifying web3 UX through gamification.</p>
