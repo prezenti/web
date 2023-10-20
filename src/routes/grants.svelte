@@ -171,6 +171,16 @@
 
                 <hr/>
 
+                <h2>Nerve Network</h2>
+
+                <p>NerveNetwork is an asset relay network connecting multiple blockchains, a 0 gas blockchain.
+                    NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service.
+                    Nerve Network is doing an integration to support cross chain liquidity between Celo and Nerve. This will allow Nerve Network to support Celo assets and all the Celo blockchain based assets cross chain to the other 26+ supported blockchains on NerveBridge.</p>
+                <li><a href="https://nerve.network/">Website</a></li>
+                <li><a href="https://twitter.com/nerve_network">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Onboard</h2>
 
                 <p>Onboard is a community of builders who are gathered to create educational content to support ecosystems. By funding Onboard, they will aim to engage these builders to educate the world on building on Celo through product development and content creation.</p>
