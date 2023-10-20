@@ -52,6 +52,12 @@
 
                 <hr/>
 
+                <h2>Arttribute</h2>
+
+                <p>Arttribute aims to address the growing prevalence of AI-generated art by empowering artists and offering transparent and ethical usage of artwork in generative AI models. The goal is to provide tools that cater to the needs of artists, AI enthusiasts, and practitioners, providing them with a seamless and ethical way to collaborate and promote fair and transparent usage of artwork.</p>
+
+                <hr/>
+
                 <h2>Community Health Project (TogetherCrew)</h2>
 
                 <p>This project contributes to Celo’s mission of building an open financial system that creates the conditions of prosperity for all by developing tools to measure and analyze community health and governance participation within Celo’s ecosystem. By defining a framework for evaluating community health, collecting data on community engagement, and analyzing it to identify patterns and trends, the project aims to provide insights that can be used to improve community engagement and participation, and ultimately help to create the conditions of prosperity for all. The involvement of research partners from MIT and UC Berkeley also demonstrate the commitment to applying scientific rigor in this process.</p>
