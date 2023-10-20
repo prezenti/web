@@ -60,9 +60,9 @@
 
                 <h2>BitGifty</h2>
 
-                <p>Bitgifty is an innovative crypto gift card platform that enables users to send and receive crypto as gift cards via email. Users can easily create and redeem crypto gift cards in just a few clicks, sending cUSD, Celo, Bitcoin, Ethereum, USDT, and other coins as gift cards.
-                    With BitGifty, users can receive crypto directly in their email without worrying about wallet addresses. Not only can users receive crypto gifts seamlessly, but they can also either convert the gifts to Naira directly to their bank account or spend the gift right on the platform.
-                    BitGifty provides its users with the option to pay for their daily utilities using their crypto gifts, such as data, airtime, cable TV, and electricity bills.</p>
+                <p>Bitgifty is an innovative crypto gift card platform that enables users to send and receive crypto as gift cards via email. Users can easily create and redeem crypto gift cards in just a few clicks, sending cUSD, Celo, Bitcoin, Ethereum, USDT, and other coins as gift cards.</p>
+                    <p>With BitGifty, users can receive crypto directly in their email without worrying about wallet addresses. Not only can users receive crypto gifts seamlessly, but they can also either convert the gifts to Naira directly to their bank account or spend the gift right on the platform.</p>
+                    <p>BitGifty provides its users with the option to pay for their daily utilities using their crypto gifts, such as data, airtime, cable TV, and electricity bills.</p>
                 <li><a href="https://bitgifty.com/">Website</a></li>
                 <li><a href="https://twitter.com/BitGifty">Twitter</a></li>
 
@@ -234,9 +234,9 @@
 
                 <h2>Nerve Network</h2>
 
-                <p>NerveNetwork is an asset relay network connecting multiple blockchains, a 0 gas blockchain.
-                    NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service.
-                    Nerve Network is doing an integration to support cross chain liquidity between Celo and Nerve. This will allow Nerve Network to support Celo assets and all the Celo blockchain based assets cross chain to the other 26+ supported blockchains on NerveBridge.</p>
+                <p>NerveNetwork is an asset relay network connecting multiple blockchains, a 0 gas blockchain.</p>
+                    <p>NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service.</p>
+                    <p>Nerve Network is doing an integration to support cross chain liquidity between Celo and Nerve. This will allow Nerve Network to support Celo assets and all the Celo blockchain based assets cross chain to the other 26+ supported blockchains on NerveBridge.</p>
                 <li><a href="https://nerve.network/">Website</a></li>
                 <li><a href="https://twitter.com/nerve_network">Twitter</a></li>
 
@@ -252,8 +252,7 @@
 
                 <h2>Onset Carbon</h2>
 
-                <p>The Onset Carbon project aims to make offsetting carbon emissions easy and accessible for
-                    companies through the development of a blockchain-based API. The API will utilize carbon credits from the Verra registry, which will be bridged to the Celo blockchain via the Toucan protocol. This will provide a secure and robust platform for fast and low-cost transactions, while also allowing for enhanced verification and auditability of carbon credits. They also have a storefront which allows anyone to quickly and easily offset their emissions with a credit card using blockchain-based credits, which they built as a proof of concept.</p>
+                <p>The Onset Carbon project aims to make offsetting carbon emissions easy and accessible for companies through the development of a blockchain-based API. The API will utilize carbon credits from the Verra registry, which will be bridged to the Celo blockchain via the Toucan protocol. This will provide a secure and robust platform for fast and low-cost transactions, while also allowing for enhanced verification and auditability of carbon credits. They also have a storefront which allows anyone to quickly and easily offset their emissions with a credit card using blockchain-based credits, which they built as a proof of concept.</p>
                 <li><a href="https://www.onsetcarbon.com/">Website</a></li>
 
                 <hr/>
@@ -268,9 +267,9 @@
 
                 <h2>Procision</h2>
 
-                <p>Procision aims to solve the problem of the increasing number of payment options available to consumers, including multiple currencies, loyalty points, and digital tokens. Their solution provides retailers with a single platform to manage pricing and transactions for all types of payments and redemptions, reducing the need to navigate multiple silos to set prices across the board.
-                    In addition, they help address climate remediation by enabling consumers to retire carbon pollution through everyday retail purchases or loyalty redemptions. Their platform also provides an auditable way for retail businesses to contribute to climate remediation efforts.
-                    They plan to integrate Celo tokens into our product to enable customers to pay for products with Celo or a white-labeled Celo coin. Customers will also receive Celo coins as rewards for their purchases, thereby promoting the use of Celo beyond its climate benefits.</p>
+                <p>Procision aims to solve the problem of the increasing number of payment options available to consumers, including multiple currencies, loyalty points, and digital tokens. Their solution provides retailers with a single platform to manage pricing and transactions for all types of payments and redemptions, reducing the need to navigate multiple silos to set prices across the board.</p>
+                    <p>In addition, they help address climate remediation by enabling consumers to retire carbon pollution through everyday retail purchases or loyalty redemptions. Their platform also provides an auditable way for retail businesses to contribute to climate remediation efforts.</p>
+                    <p>They plan to integrate Celo tokens into our product to enable customers to pay for products with Celo or a white-labeled Celo coin. Customers will also receive Celo coins as rewards for their purchases, thereby promoting the use of Celo beyond its climate benefits.</p>
                 <li><a href="https://procision.co/">Website</a></li>
                 <li><a href="https://twitter.com/procision_co">Twitter</a></li>
 
@@ -294,8 +293,8 @@
 
                 <h2>ReFi Medellín</h2>
 
-                <p>They are a movement dedicated to creating a more sustainable and equitable future in Medellín.
-                   Their goal is to foster community discussions around regenerative-oriented-innovations (ROIs) enabled by Web3 and empower the city's youth to address some of its most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and the lack of access to basic resources such as energy, water, sanitation, housing, and education.</p>
+                <p>They are a movement dedicated to creating a more sustainable and equitable future in Medellín.</p>
+                <p>Their goal is to foster community discussions around regenerative-oriented-innovations (ROIs) enabled by Web3 and empower the city's youth to address some of its most pressing challenges through hackathons, incubation, and investment. These challenges include poverty, inequality, youth unemployment, and the lack of access to basic resources such as energy, water, sanitation, housing, and education.</p>
                 <li><a href="https://linktr.ee/refimedellin">Website</a></li>
                 <li><a href="https://twitter.com/ReFiMedellin">Twitter</a></li>
 
@@ -335,9 +334,10 @@
 
                 <h2>Teleport DAO Bridge</h2>
 
-                <p>Teleport Bridge is a light client bridge between Celo and Ethereum, It is a part of Teleportdao which is a trustless interoperability protocol. So far, they have built a bridge between Bitcoin and EVM chains, they are now live on Polygon. They will soon launch their light client  bridge between Bitcoin and Ethereum. As a team, they have built applications on top of their live bridge:</p>
-                    <li><a href="https://teleswap.xyz/">Teleswap</a>: which is a Dex for Bitcoin and tokens on polygon</li>
-                    <li><a href="https://teleordinal.xyz">TeleOrdinal</a>: which is a decentralized marketplace for Ordinals</li>
+                <p>Teleport Bridge is a light client bridge between Celo and Ethereum, It is a part of Teleportdao which is a trustless interoperability protocol. So far, they have built a bridge between Bitcoin and EVM chains, they are now live on Polygon. They will soon launch their light client  bridge between Bitcoin and Ethereum. As a team, they have built applications on top of their live bridge(a Dex for Bitcoin and decentralized marketplace for Ordinals):</p>
+                    <li><a href="https://teleswap.xyz/">Teleswap</a></li>
+                    <li><a href="https://teleordinal.xyz">TeleOrdinal</a></li>
+                    <p></p>
                     <p>Other links</p>
                     <li><a href="https://www.teleportdao.xyz/">Website</a></li>
                     <li><a href="https://twitter.com/Teleport_DAO">Twitter</a></li>
