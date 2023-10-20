@@ -138,6 +138,14 @@
 
                 <hr/>
 
+                <h2>Into the Verse</h2>
+
+                <p>IntotheVerse is developing an on-chain mobile game on Celo Blockchain where players can engage in building their own world, manage and nurture it, meet with other players and perform activities that we perform in the real world (farming, fishing, banking, recreation, conservation) from within the game, in a social and educational gameplay focused on onboarding people to web3 and simplifying web3 UX through gamification.</p>
+                <li><a href="https://intotheverse.xyz/">Website</a></li>
+                <li><a href="https://twitter.com/IntoTheVerse_">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Inspira Valley</h2>
 
                 <p>InspiraValley plans to develop a special edition dedicated to product management in Celo Blockchain, demonstrating the ReFi Product Model Canvas framework with use cases, innovative Brazilian projects in Celo, podcast with Brazilian entrepreneurs on Celo, videos on blockchain product management and presenting global solutions developed in Celo Blockchain.</p>
