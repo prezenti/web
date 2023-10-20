@@ -210,6 +210,15 @@
 
                 <hr/>
 
+
+                <h2>Tali AI</h2>
+
+                <p>Tali is an intelligent, AI-driven Discord bot designed to enhance developer relations, support, and community management. Tali instantly answers developer questions by analyzing developer docs, technical documentation, and other data sources for seamless knowledge integration for technical support.</p>
+                <li><a href="https://www.trytali.com/">Website</a></li>
+                <li><a href="https://twitter.com/trytaliAI">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Wasset</h2>
 
                 <p>Wasset's mission of creating a waste-powered circular economy that ensures sustainable collection, recovery, and recycling of waste aligns with Celos mission of creating a financial system that creates prosperity for all while contributing positively to the well-being of our planet. Prezenti is supporting a pilot program, which is focused on encouraging sorting, collection, and recycling of waste, to test the community response to the ImpactUs and UBHI programs.</p>
