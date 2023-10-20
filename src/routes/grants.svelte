@@ -197,6 +197,14 @@
 
                 <hr/>
 
+                <h2>Mentors Collective</h2>
+
+                <p>Empowering Celo projects through mentorship. Bridging the gap between aspiring Celo entrepreneurs and seasoned experts, providing transformative mentorship sessions that equip Celo startups with actionable insights, bolstered confidence, and tailored guidance, propelling them towards success in the dynamic blockchain landscape. Informed by their engagement in Celo Camp and insightful discussions with Prezenti, they've identified a pressing need: despite strong technical foundations, many Celo projects lack strategic finesse in areas like go-to-market strategies, UX optimization, funding plans, and product strategies. Their mentorship program addresses this gap by offering curated mentors, hands-on advice, and a trusted environment, empowering these projects to navigate the growth and traction phase with streamlined access to the expertise they require.</p>
+                <li><a href="https://www.mentorscollective.org/">Website</a></li>
+                <li><a href="https://twitter.com/elad_mi">Twitter</a></li>
+
+                <hr/>
+
                 <h2>Nerve Network</h2>
 
                 <p>NerveNetwork is an asset relay network connecting multiple blockchains, a 0 gas blockchain.
