@@ -98,7 +98,7 @@
 
                 <h2>CreDA</h2>
 
-                <p>CreDA (Credit DeFi Alliance) is the first trusted decentralized credit rating service that models on-chain and traditional data linked to a secure personal decentralized identity to create a universal credibility score for Web3. This grant will enable the deployment of CreDA Credit Scores and Elastos DID solution on Celo.</p>
+                <p>CreDA (Credit Data Alliance) is the first trusted decentralized credit rating service that models on-chain and traditional data linked to a secure personal decentralized identity to create a universal credibility score for Web3. This grant will enable the deployment of CreDA Credit Scores and Elastos DID solution on Celo.</p>
                 <li><a href="https://www1.creda.app/home">Website</a></li>
                 <li><a href="https://twitter.com/CreDAfinance">Twitter</a></li>
 
